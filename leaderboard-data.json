@@ -1,2050 +1,346 @@
 {
-  "Leaderboard - FTA 30X30 Steps C": [
-    {
-      "Position": 1,
-      "Name": "Walaa Beltagy",
-      "Team": "Tax Operation Department",
-      "Total Steps": 104293
-    },
-    {
-      "Position": 2,
-      "Name": "Eisa Alhammadi",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 93467
-    },
-    {
-      "Position": 3,
-      "Name": "Ahmed Alhosani",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 73576
-    },
-    {
-      "Position": 4,
-      "Name": "Abdulla alfalasi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 68850
-    },
-    {
-      "Position": 5,
-      "Name": "Anil Chhablani",
-      "Team": "Tax Audit Department",
-      "Total Steps": 67716
-    },
-    {
-      "Position": 6,
-      "Name": "Jeremy Sherwood",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 65306
-    },
-    {
-      "Position": 7,
-      "Name": "Saoud ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 64573
-    },
-    {
-      "Position": 8,
-      "Name": "Mohamed Alfalasi",
-      "Team": "Financial Affairs Department",
-      "Total Steps": 60382
-    },
-    {
-      "Position": 9,
-      "Name": "Msallam ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 59715
-    },
-    {
-      "Position": 10,
-      "Name": "Shareef Alblooshi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 59651
-    },
-    {
-      "Position": 11,
-      "Name": "Ahmed Almaazmi",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 58616
-    },
-    {
-      "Position": 12,
-      "Name": "Jasim Haddad",
-      "Team": "Human Resources Department",
-      "Total Steps": 57978
-    },
-    {
-      "Position": 13,
-      "Name": "Asma Alhammadi",
-      "Team": "Human Resources Department",
-      "Total Steps": 54938
-    },
-    {
-      "Position": 14,
-      "Name": "Abdulla Bin Haider",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 53209
-    },
-    {
-      "Position": 15,
-      "Name": "Aaesha Alsawaleh",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 52895
-    },
-    {
-      "Position": 16,
-      "Name": "MOHAMED TEMRAZ",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 50567
-    },
-    {
-      "Position": 17,
-      "Name": "Badir alali",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 49356
-    },
-    {
-      "Position": 18,
-      "Name": "Humaid Al Hammadi",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 49025
-    },
-    {
-      "Position": 19,
-      "Name": "Fatmah Alawadhi",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 48218
-    },
-    {
-      "Position": 20,
-      "Name": "Hamdan alketbi",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 46865
-    },
-    {
-      "Position": 21,
-      "Name": "Ridha ",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 46489
-    },
-    {
-      "Position": 22,
-      "Name": "Saood Barakat",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 46279
-    },
-    {
-      "Position": 23,
-      "Name": "Ibrahim Al Ali",
-      "Team": "Project Management Office",
-      "Total Steps": 42316
-    },
-    {
-      "Position": 24,
-      "Name": "Aysha7 ",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 41592
-    },
-    {
-      "Position": 25,
-      "Name": "Vinesh Vagadia",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 41382
-    },
-    {
-      "Position": 26,
-      "Name": "Mahra ",
-      "Team": "Human Resources Department",
-      "Total Steps": 40038
-    },
-    {
-      "Position": 27,
-      "Name": "Taiseer ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 39498
-    },
-    {
-      "Position": 28,
-      "Name": "Hamed almheiri",
-      "Team": "Tax Operation Department",
-      "Total Steps": 38535
-    },
-    {
-      "Position": 29,
-      "Name": "Shahad ",
-      "Team": "General Affairs Department",
-      "Total Steps": 37219
-    },
-    {
-      "Position": 30,
-      "Name": "Omar osman",
-      "Team": "Tax Operation Department",
-      "Total Steps": 37167
-    },
-    {
-      "Position": 31,
-      "Name": "Khadija ",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 36967
-    },
-    {
-      "Position": 32,
-      "Name": "Ahmad ",
-      "Team": "Financial Affairs Department",
-      "Total Steps": 36924
-    },
-    {
-      "Position": 33,
-      "Name": "Mohammed alawadhi",
-      "Team": "Tax Audit Department",
-      "Total Steps": 36640
-    },
-    {
-      "Position": 34,
-      "Name": "Nicola Butt",
-      "Team": "Tax Audit Department",
-      "Total Steps": 36516
-    },
-    {
-      "Position": 35,
-      "Name": "Bedoor ",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 36455
-    },
-    {
-      "Position": 36,
-      "Name": "Abdulla Alsuwaidi",
-      "Team": "Project Management Office",
-      "Total Steps": 36019
-    },
-    {
-      "Position": 37,
-      "Name": "Mohammed Ahli",
-      "Team": "Human Resources Department",
-      "Total Steps": 35735
-    },
-    {
-      "Position": 38,
-      "Name": "Awab Adel",
-      "Team": "Tax Operation Department",
-      "Total Steps": 35415
-    },
-    {
-      "Position": 39,
-      "Name": "Hamda ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 34892
-    },
-    {
-      "Position": 40,
-      "Name": "Adel Karmustaji",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 34377
-    },
-    {
-      "Position": 41,
-      "Name": "Moza Alketbi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 34371
-    },
-    {
-      "Position": 42,
-      "Name": "Budoor ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 34299
-    },
-    {
-      "Position": 43,
-      "Name": "Suraj Prem",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 33834
-    },
-    {
-      "Position": 44,
-      "Name": "AbdulRahman Adel",
-      "Team": "Information Technology Sector",
-      "Total Steps": 33138
-    },
-    {
-      "Position": 45,
-      "Name": "afra almheiri",
-      "Team": "Strategy and Future Department",
-      "Total Steps": 32344
-    },
-    {
-      "Position": 46,
-      "Name": "Marwa ",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 31395
-    },
-    {
-      "Position": 47,
-      "Name": "nayef ",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 31335
-    },
-    {
-      "Position": 48,
-      "Name": "Sara Hussain",
-      "Team": "Project Management Office",
-      "Total Steps": 31333
-    },
-    {
-      "Position": 49,
-      "Name": "Hazem Alaboud",
-      "Team": "Human Resources Department",
-      "Total Steps": 31182
-    },
-    {
-      "Position": 50,
-      "Name": "Maryam Al Ali",
-      "Team": "Human Resources Department",
-      "Total Steps": 30605
-    },
-    {
-      "Position": 51,
-      "Name": "Hashem Alhashemi",
-      "Team": "Project Management Office",
-      "Total Steps": 30538
-    },
-    {
-      "Position": 52,
-      "Name": "Ayesha Abdulla",
-      "Team": "Tax Audit Department",
-      "Total Steps": 28843
-    },
-    {
-      "Position": 53,
-      "Name": "Mohamed alaskar",
-      "Team": "General Affairs Department",
-      "Total Steps": 28600
-    },
-    {
-      "Position": 54,
-      "Name": "Mohamed Abdulla",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 28343
-    },
-    {
-      "Position": 55,
-      "Name": "Manmohandas ",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 28107
-    },
-    {
-      "Position": 56,
-      "Name": "Jamal Alsuwaidi",
-      "Team": "Strategy and Future Department",
-      "Total Steps": 27857
-    },
-    {
-      "Position": 57,
-      "Name": "Hind AlZarooni",
-      "Team": "Tax Operation Department",
-      "Total Steps": 27070
-    },
-    {
-      "Position": 58,
-      "Name": "Vinayak Budapanahalli",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 26782
-    },
-    {
-      "Position": 59,
-      "Name": "Maitha ",
-      "Team": "Human Resources Department",
-      "Total Steps": 26490
-    },
-    {
-      "Position": 60,
-      "Name": "Abdulrahman Alalili",
-      "Team": "Project Management Office",
-      "Total Steps": 26360
-    },
-    {
-      "Position": 61,
-      "Name": "Ahmad Almutawa",
-      "Team": "General Affairs Department",
-      "Total Steps": 26065
-    },
-    {
-      "Position": 62,
-      "Name": "Afnan ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 25933
-    },
-    {
-      "Position": 63,
-      "Name": "Mohamed aljuneibi",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 25893
-    },
-    {
-      "Position": 64,
-      "Name": "Fatma Alsuwaidi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 25867
-    },
-    {
-      "Position": 65,
-      "Name": "Maryam ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 25856
-    },
-    {
-      "Position": 66,
-      "Name": "Sultan ",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 25488
-    },
-    {
-      "Position": 67,
-      "Name": "Saif Alsuwaidi",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 25337
-    },
-    {
-      "Position": 68,
-      "Name": "Reem Alnuaimi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 25155
-    },
-    {
-      "Position": 69,
-      "Name": "Anil Thomas",
-      "Team": "Information Technology Sector",
-      "Total Steps": 25093
-    },
-    {
-      "Position": 70,
-      "Name": "AHMED ALSHARJI",
-      "Team": "General Affairs Department",
-      "Total Steps": 24702
-    },
-    {
-      "Position": 71,
-      "Name": "Jamal AlMarzooqi",
-      "Team": "Financial Affairs Department",
-      "Total Steps": 24501
-    },
-    {
-      "Position": 72,
-      "Name": "Saif ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 24305
-    },
-    {
-      "Position": 73,
-      "Name": "Mohamed Alansaari",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 24178
-    },
-    {
-      "Position": 74,
-      "Name": "Allam ",
-      "Team": "Financial Affairs Department",
-      "Total Steps": 23791
-    },
-    {
-      "Position": 75,
-      "Name": "Hessa ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 23714
-    },
-    {
-      "Position": 76,
-      "Name": "Michael Estephan",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 23624
-    },
-    {
-      "Position": 77,
-      "Name": "Alaa Sallam",
-      "Team": "Tax Operation Department",
-      "Total Steps": 23612
-    },
-    {
-      "Position": 78,
-      "Name": "Abdulaziz ",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 23307
-    },
-    {
-      "Position": 79,
-      "Name": "AAA ",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 23053
-    },
-    {
-      "Position": 80,
-      "Name": "Fatma ",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 22612
-    },
-    {
-      "Position": 81,
-      "Name": "ELSAADANY ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 21897
-    },
-    {
-      "Position": 82,
-      "Name": "Eissa alraeesi",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 21729
-    },
-    {
-      "Position": 83,
-      "Name": "Mohammed Mokhtari",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 21709
-    },
-    {
-      "Position": 84,
-      "Name": "Sarmad Nasir",
-      "Team": "Project Management Office",
-      "Total Steps": 21489
-    },
-    {
-      "Position": 85,
-      "Name": "Jishnudas Pazhedath",
-      "Team": "Information Technology Sector",
-      "Total Steps": 21351
-    },
-    {
-      "Position": 86,
-      "Name": "Abdulla Alkindi",
-      "Team": "General Affairs Department",
-      "Total Steps": 20956
-    },
-    {
-      "Position": 87,
-      "Name": "Hamad Al Hammadi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 20896
-    },
-    {
-      "Position": 88,
-      "Name": "YUSUF ALTAMIMI",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 20858
-    },
-    {
-      "Position": 89,
-      "Name": "Mohamed Yousif Alrasheed",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 20702
-    },
-    {
-      "Position": 90,
-      "Name": "Shaikha ",
-      "Team": "Information Technology Sector",
-      "Total Steps": 20281
-    },
-    {
-      "Position": 91,
-      "Name": "Majd Hamdan",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 20226
-    },
-    {
-      "Position": 92,
-      "Name": "Yasser Elsaigh",
-      "Team": "Tax Audit Department",
-      "Total Steps": 20091
-    },
-    {
-      "Position": 93,
-      "Name": "Saood Ahli",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 19822
-    },
-    {
-      "Position": 94,
-      "Name": "Saeed Ahmad",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 19786
-    },
-    {
-      "Position": 95,
-      "Name": "Ahmed Alshehhi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 19593
-    },
-    {
-      "Position": 96,
-      "Name": "Ahmad Aljoulani",
-      "Team": "Government Communication Department",
-      "Total Steps": 19487
-    },
-    {
-      "Position": 97,
-      "Name": "Suha Qadri",
-      "Team": "Tax Audit Department",
-      "Total Steps": 19371
-    },
-    {
-      "Position": 98,
-      "Name": "Abdulla .H",
-      "Team": "Tax Operation Department",
-      "Total Steps": 19303
-    },
-    {
-      "Position": 99,
-      "Name": "Gharisa Lootah",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 19263
-    },
-    {
-      "Position": 100,
-      "Name": "Sultan ",
-      "Team": "Financial Affairs Department",
-      "Total Steps": 18911
-    },
-    {
-      "Position": 101,
-      "Name": "Louai ",
-      "Team": "Information Technology Sector",
-      "Total Steps": 18663
-    },
-    {
-      "Position": 102,
-      "Name": "Hamda J",
-      "Team": "Tax Operation Department",
-      "Total Steps": 18432
-    },
-    {
-      "Position": 103,
-      "Name": "Wael Khadra",
-      "Team": "Information Technology Sector",
-      "Total Steps": 18415
-    },
-    {
-      "Position": 104,
-      "Name": "Osama Mohamed",
-      "Team": "Information Technology Sector",
-      "Total Steps": 18045
-    },
-    {
-      "Position": 105,
-      "Name": "Reemm ",
-      "Team": "General Affairs Department",
-      "Total Steps": 17951
-    },
-    {
-      "Position": 106,
-      "Name": "Houda ",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 17901
-    },
-    {
-      "Position": 107,
-      "Name": "Thani ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 17821
-    },
-    {
-      "Position": 108,
-      "Name": "Abdulla aljawder",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 17591
-    },
-    {
-      "Position": 109,
-      "Name": "Yusuf ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 17575
-    },
-    {
-      "Position": 110,
-      "Name": "Sara Hamza",
-      "Team": "Strategy and Future Department",
-      "Total Steps": 16683
-    },
-    {
-      "Position": 111,
-      "Name": "Nupur Jain",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 16622
-    },
-    {
-      "Position": 112,
-      "Name": "Faizan khalid",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 16606
-    },
-    {
-      "Position": 113,
-      "Name": "Alhashmi ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 16460
-    },
-    {
-      "Position": 114,
-      "Name": "Mohammed aqeel mohammed",
-      "Team": "Tax Operation Department",
-      "Total Steps": 16334
-    },
-    {
-      "Position": 115,
-      "Name": "Magdi Ibrahim",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 16333
-    },
-    {
-      "Position": 116,
-      "Name": "Abdulla AlYafei",
-      "Team": "Human Resources Department",
-      "Total Steps": 16125
-    },
-    {
-      "Position": 117,
-      "Name": "Mukesh ",
-      "Team": "Information Technology Sector",
-      "Total Steps": 15953
-    },
-    {
-      "Position": 118,
-      "Name": "Mustafa Khirfan",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 15915
-    },
-    {
-      "Position": 119,
-      "Name": "Nada ",
-      "Team": "Human Resources Department",
-      "Total Steps": 15878
-    },
-    {
-      "Position": 120,
-      "Name": "Hager Fathi",
-      "Team": "Tax Operation Department",
-      "Total Steps": 15699
-    },
-    {
-      "Position": 121,
-      "Name": "Lesha ",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 15660
-    },
-    {
-      "Position": 122,
-      "Name": "Muawia ",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 15486
-    },
-    {
-      "Position": 123,
-      "Name": "Omar Alraeesi",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 15350
-    },
-    {
-      "Position": 124,
-      "Name": "Ghassan ",
-      "Team": "Project Management Office",
-      "Total Steps": 15284
-    },
-    {
-      "Position": 125,
-      "Name": "Challenger ",
-      "Team": "Project Management Office",
-      "Total Steps": 15193
-    },
-    {
-      "Position": 126,
-      "Name": "Muna Almarzooqi",
-      "Team": "Strategy and Future Department",
-      "Total Steps": 15089
-    },
-    {
-      "Position": 127,
-      "Name": "Abdulla Alawadhi",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 15004
-    },
-    {
-      "Position": 128,
-      "Name": "Abdulaziz Alhosani",
-      "Team": "Tax Operation Department",
-      "Total Steps": 14784
-    },
-    {
-      "Position": 129,
-      "Name": "Hamda AlAli",
-      "Team": "Strategy and Future Department",
-      "Total Steps": 14734
-    },
-    {
-      "Position": 130,
-      "Name": "HH ",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 14718
-    },
-    {
-      "Position": 131,
-      "Name": "Shaikha Alketbi",
-      "Team": "Human Resources Department",
-      "Total Steps": 14500
-    },
-    {
-      "Position": 132,
-      "Name": "Doaa ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 14418
-    },
-    {
-      "Position": 133,
-      "Name": "Aswin Reddy",
-      "Team": "Information Technology Sector",
-      "Total Steps": 14375
-    },
-    {
-      "Position": 134,
-      "Name": "Hamad Muallemi",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 13327
-    },
-    {
-      "Position": 135,
-      "Name": "Hind Alowais",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 13180
-    },
-    {
-      "Position": 136,
-      "Name": "Muna Alhammadi",
-      "Team": "Government Communication Department",
-      "Total Steps": 13150
-    },
-    {
-      "Position": 137,
-      "Name": "Jaimishkumar Khodidasbhai Patel",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 13063
-    },
-    {
-      "Position": 138,
-      "Name": "Maryam Rajab",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 13028
-    },
-    {
-      "Position": 139,
-      "Name": "Huda Elbashary",
-      "Team": "Project Management Office",
-      "Total Steps": 12948
-    },
-    {
-      "Position": 140,
-      "Name": "Rea Mangalindan",
-      "Team": "Tax Audit Department",
-      "Total Steps": 12789
-    },
-    {
-      "Position": 141,
-      "Name": "Mohammed Bondouk",
-      "Team": "Tax Operation Department",
-      "Total Steps": 12424
-    },
-    {
-      "Position": 142,
-      "Name": "Tareq ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 12393
-    },
-    {
-      "Position": 143,
-      "Name": "moza almarri",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 12340
-    },
-    {
-      "Position": 144,
-      "Name": "Fatma Hassan",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 12312
-    },
-    {
-      "Position": 145,
-      "Name": "Meera almuhairi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 12253
-    },
-    {
-      "Position": 146,
-      "Name": "Obaid jamal",
-      "Team": "Tax Operation Department",
-      "Total Steps": 12054
-    },
-    {
-      "Position": 147,
-      "Name": "Christine Awad",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 12009
-    },
-    {
-      "Position": 148,
-      "Name": "Fathima Shurookh",
-      "Team": "Tax Operation Department",
-      "Total Steps": 11961
-    },
-    {
-      "Position": 149,
-      "Name": "Sunita Taijwani",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 11953
-    },
-    {
-      "Position": 150,
-      "Name": "Rawda Alhashimi",
-      "Team": "Tax Operation Department",
-      "Total Steps": 11949
-    },
-    {
-      "Position": 151,
-      "Name": "Amr nasser",
-      "Team": "General Affairs Department",
-      "Total Steps": 11878
-    },
-    {
-      "Position": 152,
-      "Name": "Hamdan Falamarzi",
-      "Team": "Government Communication Department",
-      "Total Steps": 11793
-    },
-    {
-      "Position": 153,
-      "Name": "Saida Kaddoumi-Osman",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 11745
-    },
-    {
-      "Position": 154,
-      "Name": "Karam 7ijjawi",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 11620
-    },
-    {
-      "Position": 155,
-      "Name": "Abdullah ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 11314
-    },
-    {
-      "Position": 156,
-      "Name": "Saud ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 11293
-    },
-    {
-      "Position": 157,
-      "Name": "Firnas Furkhan",
-      "Team": "Tax Audit Department",
-      "Total Steps": 11045
-    },
-    {
-      "Position": 158,
-      "Name": "Amr ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 10955
-    },
-    {
-      "Position": 159,
-      "Name": "Jessica Hassan",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 10772
-    },
-    {
-      "Position": 160,
-      "Name": "Fatma ",
-      "Team": "Information Technology Sector",
-      "Total Steps": 10755
-    },
-    {
-      "Position": 161,
-      "Name": "Shaikha Alblooshi",
-      "Team": "Government Communication Department",
-      "Total Steps": 10753
-    },
-    {
-      "Position": 162,
-      "Name": "Khawla ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 10592
-    },
-    {
-      "Position": 163,
-      "Name": "Sunil Kumar Sunkara",
-      "Team": "Information Technology Sector",
-      "Total Steps": 10589
-    },
-    {
-      "Position": 164,
-      "Name": "Abdulkarim Koori",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 10510
-    },
-    {
-      "Position": 165,
-      "Name": "Fatima Tareq",
-      "Team": "Tax Audit Department",
-      "Total Steps": 10509
-    },
-    {
-      "Position": 166,
-      "Name": "Ravikiran Madugula",
-      "Team": "Tax Audit Department",
-      "Total Steps": 10364
-    },
-    {
-      "Position": 167,
-      "Name": "Gaurav Srivastava",
-      "Team": "Information Technology Sector",
-      "Total Steps": 10160
-    },
-    {
-      "Position": 168,
-      "Name": "Rafia Ahli",
-      "Team": "Tax Audit Department",
-      "Total Steps": 10160
-    },
-    {
-      "Position": 169,
-      "Name": "Dipak Sawant",
-      "Team": "Information Technology Sector",
-      "Total Steps": 10123
-    },
-    {
-      "Position": 170,
-      "Name": "AMNA ALBEDWAWI",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 10102
-    },
-    {
-      "Position": 171,
-      "Name": "Mahmoud Houdali",
-      "Team": "Information Technology Sector",
-      "Total Steps": 10023
-    },
-    {
-      "Position": 172,
-      "Name": "Rodha ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 9979
-    },
-    {
-      "Position": 173,
-      "Name": "Mohammed Ahmed Al Ali",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 9942
-    },
-    {
-      "Position": 174,
-      "Name": "Ravi ",
-      "Team": "Project Management Office",
-      "Total Steps": 9823
-    },
-    {
-      "Position": 175,
-      "Name": "Neil Anthony Malekar",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 9510
-    },
-    {
-      "Position": 176,
-      "Name": "Akram S",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 9320
-    },
-    {
-      "Position": 177,
-      "Name": "Alaa ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 9282
-    },
-    {
-      "Position": 178,
-      "Name": "Mohamed Roshdy",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 9165
-    },
-    {
-      "Position": 179,
-      "Name": "Husam ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 9116
-    },
-    {
-      "Position": 180,
-      "Name": "Safia ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 9079
-    },
-    {
-      "Position": 181,
-      "Name": "Albannai.7 ",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 8900
-    },
-    {
-      "Position": 182,
-      "Name": "Khaled Al Ali",
-      "Team": "Project Management Office",
-      "Total Steps": 8789
-    },
-    {
-      "Position": 183,
-      "Name": "Khalifa ",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 8725
-    },
-    {
-      "Position": 184,
-      "Name": "Aisha Mehta",
-      "Team": "Information Technology Sector",
-      "Total Steps": 8721
-    },
-    {
-      "Position": 185,
-      "Name": "Mahra ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 8611
-    },
-    {
-      "Position": 186,
-      "Name": "Hashem Abusalem",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 8471
-    },
-    {
-      "Position": 187,
-      "Name": "Maytha AlGhfeli",
-      "Team": "Information Technology Sector",
-      "Total Steps": 8467
-    },
-    {
-      "Position": 188,
-      "Name": "Nassir miran",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 8444
-    },
-    {
-      "Position": 189,
-      "Name": "Arif Abdulrahman",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 8317
-    },
-    {
-      "Position": 190,
-      "Name": "Helen Taylor",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 8196
-    },
-    {
-      "Position": 191,
-      "Name": "Meera Alali",
-      "Team": "Tax Operation Department",
-      "Total Steps": 8034
-    },
-    {
-      "Position": 192,
-      "Name": "Yousuf Aljaber",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 8023
-    },
-    {
-      "Position": 193,
-      "Name": "Haya ",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 7816
-    },
-    {
-      "Position": 194,
-      "Name": "Fatma ",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 7733
-    },
-    {
-      "Position": 195,
-      "Name": "Muna Alshamsi",
-      "Team": "Government Communication Department",
-      "Total Steps": 7555
-    },
-    {
-      "Position": 196,
-      "Name": "Maryam Almehza",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 7514
-    },
-    {
-      "Position": 197,
-      "Name": "Mahra Alzarooni",
-      "Team": "Tax Operation Department",
-      "Total Steps": 7491
-    },
-    {
-      "Position": 198,
-      "Name": "Asaad Abdo",
-      "Team": "Project Management Office",
-      "Total Steps": 7472
-    },
-    {
-      "Position": 199,
-      "Name": "Mansour.aldhaheri ",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 7395
-    },
-    {
-      "Position": 200,
-      "Name": "Walid Abdulrahman Khamis",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 7352
-    },
-    {
-      "Position": 201,
-      "Name": "Charmaine Pelagio",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 7341
-    },
-    {
-      "Position": 202,
-      "Name": "Abdelrahman ",
-      "Team": "Information Technology Sector",
-      "Total Steps": 7307
-    },
-    {
-      "Position": 203,
-      "Name": "Ayisha ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 7245
-    },
-    {
-      "Position": 204,
-      "Name": "futtaim almarzooqi",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 7212
-    },
-    {
-      "Position": 205,
-      "Name": "Hassan almarzoqi",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 7105
-    },
-    {
-      "Position": 206,
-      "Name": "Sara Alkhoori",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 7098
-    },
-    {
-      "Position": 207,
-      "Name": "Mariam ",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 7044
-    },
-    {
-      "Position": 208,
-      "Name": "Adnan Aldhuhoori",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 7028
-    },
-    {
-      "Position": 209,
-      "Name": "Zeinab Dalmar",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 7017
-    },
-    {
-      "Position": 210,
-      "Name": "Ahmad ",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 6951
-    },
-    {
-      "Position": 211,
-      "Name": "Saud Khalid",
-      "Team": "Tax Audit Department",
-      "Total Steps": 6924
-    },
-    {
-      "Position": 212,
-      "Name": "Mahra ",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 6904
-    },
-    {
-      "Position": 213,
-      "Name": "amna alloghani",
-      "Team": "Government Communication Department",
-      "Total Steps": 6747
-    },
-    {
-      "Position": 214,
-      "Name": "Mohamed Zein",
-      "Team": "Information Technology Sector",
-      "Total Steps": 6713
-    },
-    {
-      "Position": 215,
-      "Name": "Elyazia Khalifa",
-      "Team": "Tax Operation Department",
-      "Total Steps": 6631
-    },
-    {
-      "Position": 216,
-      "Name": "Fatma ",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 6343
-    },
-    {
-      "Position": 217,
-      "Name": "Miad Abdulsalam",
-      "Team": "Financial Affairs Department",
-      "Total Steps": 6235
-    },
-    {
-      "Position": 218,
-      "Name": "Younis Gharib",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 6193
-    },
-    {
-      "Position": 219,
-      "Name": "Saurabh Arya",
-      "Team": "Information Technology Sector",
-      "Total Steps": 6068
-    },
-    {
-      "Position": 220,
-      "Name": "Esraa ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 5998
-    },
-    {
-      "Position": 221,
-      "Name": "Unais ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 5961
-    },
-    {
-      "Position": 222,
-      "Name": "Saif Alfalasi",
-      "Team": "Tax Audit Department",
-      "Total Steps": 5863
-    },
-    {
-      "Position": 223,
-      "Name": "Khawla ",
-      "Team": "Strategy and Future Department",
-      "Total Steps": 5843
-    },
-    {
-      "Position": 224,
-      "Name": "Shamsa Almheiri",
-      "Team": "Financial Affairs Department",
-      "Total Steps": 5825
-    },
-    {
-      "Position": 225,
-      "Name": "Zainab Salman",
-      "Team": "Information Technology Sector",
-      "Total Steps": 5784
-    },
-    {
-      "Position": 226,
-      "Name": "Hamda A",
-      "Team": "Tax Operation Department",
-      "Total Steps": 5622
-    },
-    {
-      "Position": 227,
-      "Name": "Fahad Alhosani",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 5529
-    },
-    {
-      "Position": 228,
-      "Name": "Nouf alansari",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 5444
-    },
-    {
-      "Position": 229,
-      "Name": "Hazem Sallowm",
-      "Team": "Information Technology Sector",
-      "Total Steps": 5425
-    },
-    {
-      "Position": 230,
-      "Name": "Nesma Hammam",
-      "Team": "Tax Operation Department",
-      "Total Steps": 5305
-    },
-    {
-      "Position": 231,
-      "Name": "Mouza Aldhaheri",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 5260
-    },
-    {
-      "Position": 232,
-      "Name": "Laila ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 5012
-    },
-    {
-      "Position": 233,
-      "Name": "Zahra Aldahmani",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 4995
-    },
-    {
-      "Position": 234,
-      "Name": "Sowmya Chinta",
-      "Team": "Information Technology Sector",
-      "Total Steps": 4868
-    },
-    {
-      "Position": 235,
-      "Name": "Maithah ",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 4846
-    },
-    {
-      "Position": 236,
-      "Name": "Budoor AlKhaldi",
-      "Team": "Tax Operation Department",
-      "Total Steps": 4829
-    },
-    {
-      "Position": 237,
-      "Name": "Maryam ",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 4724
-    },
-    {
-      "Position": 238,
-      "Name": "hind karam",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 4681
-    },
-    {
-      "Position": 239,
-      "Name": "Mozah Alhashmi",
-      "Team": "Tax Operation Department",
-      "Total Steps": 4592
-    },
-    {
-      "Position": 240,
-      "Name": "Mubarak Alkhajah",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 4575
-    },
-    {
-      "Position": 241,
-      "Name": "Eiman ",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 4543
-    },
-    {
-      "Position": 242,
-      "Name": "Hafiza Nour",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 4475
-    },
-    {
-      "Position": 243,
-      "Name": "Shaimaa Alhammadi",
-      "Team": "Tax Audit Department",
-      "Total Steps": 4193
-    },
-    {
-      "Position": 244,
-      "Name": "Divya ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 3974
-    },
-    {
-      "Position": 245,
-      "Name": "Mojahed ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 3890
-    },
-    {
-      "Position": 246,
-      "Name": "Moaza ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 3855
-    },
-    {
-      "Position": 247,
-      "Name": "Muaid saif",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 3840
-    },
-    {
-      "Position": 248,
-      "Name": "Maithaa ",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 3792
-    },
-    {
-      "Position": 249,
-      "Name": "Ayesha Ahmad",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 3762
-    },
-    {
-      "Position": 250,
-      "Name": "Dodo ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 3729
-    },
-    {
-      "Position": 251,
-      "Name": "Eiman ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 3709
-    },
-    {
-      "Position": 252,
-      "Name": "Mohammad Abusalem",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 3450
-    },
-    {
-      "Position": 253,
-      "Name": "Abdelelah ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 3343
-    },
-    {
-      "Position": 254,
-      "Name": "A.Ahli ",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 3011
-    },
-    {
-      "Position": 255,
-      "Name": "Salem Ali",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 2916
-    },
-    {
-      "Position": 256,
-      "Name": "Venkata Raju Duggirala",
-      "Team": "Information Technology Sector",
-      "Total Steps": 2820
-    },
-    {
-      "Position": 257,
-      "Name": "Nasser Abdulrahim Mohamad",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 2814
-    },
-    {
-      "Position": 258,
-      "Name": "Saeed Amir Muhammad",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 2746
-    },
-    {
-      "Position": 259,
-      "Name": "Marwa ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 2732
-    },
-    {
-      "Position": 260,
-      "Name": "Sultan ",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 2684
-    },
-    {
-      "Position": 261,
-      "Name": "Hessa ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 2603
-    },
-    {
-      "Position": 262,
-      "Name": "Mahmood Abu Ghueleh",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 2373
-    },
-    {
-      "Position": 263,
-      "Name": "A.Team leader Sheko",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 2355
-    },
-    {
-      "Position": 264,
-      "Name": "Ola ",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 2269
-    },
-    {
-      "Position": 265,
-      "Name": "Abdulrahman Alghoul",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 2084
-    },
-    {
-      "Position": 266,
-      "Name": "SH ",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 2068
-    },
-    {
-      "Position": 267,
-      "Name": "Mira ",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 1922
-    },
-    {
-      "Position": 268,
-      "Name": "Noora ",
-      "Team": "Information Technology Sector",
-      "Total Steps": 1889
-    },
-    {
-      "Position": 269,
-      "Name": "Roudha Almheiri",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 1885
-    },
-    {
-      "Position": 270,
-      "Name": "Ahmed El Zain",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 1760
-    },
-    {
-      "Position": 271,
-      "Name": "Mohannad Safadi",
-      "Team": "Tax Audit Department",
-      "Total Steps": 1744
-    },
-    {
-      "Position": 272,
-      "Name": "Abdalla Shaloh",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 1695
-    },
-    {
-      "Position": 273,
-      "Name": "Reem ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 1630
-    },
-    {
-      "Position": 274,
-      "Name": "Gulrez Alam",
-      "Team": "Information Technology Sector",
-      "Total Steps": 1594
-    },
-    {
-      "Position": 275,
-      "Name": "Abdulla Alatiyat",
-      "Team": "Tax Audit Department",
-      "Total Steps": 1486
-    },
-    {
-      "Position": 276,
-      "Name": "Alia Bin Shafia",
-      "Team": "Tax Operation Department",
-      "Total Steps": 1451
-    },
-    {
-      "Position": 277,
-      "Name": "Mashael Alhammadi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 1391
-    },
-    {
-      "Position": 278,
-      "Name": "Fatima ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 1387
-    },
-    {
-      "Position": 279,
-      "Name": "Salma ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 1386
-    },
-    {
-      "Position": 280,
-      "Name": "Maryam ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 1373
-    },
-    {
-      "Position": 281,
-      "Name": "Abdeldjalil benmediouni",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 1367
-    },
-    {
-      "Position": 282,
-      "Name": "Iman ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 1318
-    },
-    {
-      "Position": 283,
-      "Name": "Hanan Alaqili",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 1265
-    },
-    {
-      "Position": 284,
-      "Name": "Mira AlMahmoud",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 1176
-    },
-    {
-      "Position": 285,
-      "Name": "KalthamAlharthi ",
-      "Team": "Director General Office and Internal Audit Office",
-      "Total Steps": 1117
-    },
-    {
-      "Position": 286,
-      "Name": "Nayeem Mohammed",
-      "Team": "Information Technology Sector",
-      "Total Steps": 1105
-    },
-    {
-      "Position": 287,
-      "Name": "Meera alghfeli",
-      "Team": "Tax Audit Department",
-      "Total Steps": 1089
-    },
-    {
-      "Position": 288,
-      "Name": "Ola Osama",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 1035
-    },
-    {
-      "Position": 289,
-      "Name": "Maryam Karam",
-      "Team": "Tax Audit Department",
-      "Total Steps": 878
-    },
-    {
-      "Position": 290,
-      "Name": "Hessa Alserkal",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 851
-    },
-    {
-      "Position": 291,
-      "Name": "Ibrahim ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 751
-    },
-    {
-      "Position": 292,
-      "Name": "Manar ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 706
-    },
-    {
-      "Position": 293,
-      "Name": "Hamzeh Al Karmi",
-      "Team": "Information Technology Sector",
-      "Total Steps": 682
-    },
-    {
-      "Position": 294,
-      "Name": "Hamda Alnuaimi",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 589
-    },
-    {
-      "Position": 295,
-      "Name": "Hamad alzarooni",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 588
-    },
-    {
-      "Position": 296,
-      "Name": "Mohamed Lari",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 540
-    },
-    {
-      "Position": 297,
-      "Name": "Marwa ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 539
-    },
-    {
-      "Position": 298,
-      "Name": "Maryam ",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 508
-    },
-    {
-      "Position": 299,
-      "Name": "Nada ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 489
-    },
-    {
-      "Position": 300,
-      "Name": "Mohammad Murshed",
-      "Team": "Tax Operation Department",
-      "Total Steps": 357
-    },
-    {
-      "Position": 301,
-      "Name": "Ayesha ",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 349
-    },
-    {
-      "Position": 302,
-      "Name": "Abdulla Langawi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 240
-    },
-    {
-      "Position": 303,
-      "Name": "Abdou ",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 203
-    },
-    {
-      "Position": 304,
-      "Name": "Mohammed Abdulla",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 191
-    },
-    {
-      "Position": 305,
-      "Name": "Shahin Shamsudheen",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 154
-    },
-    {
-      "Position": 306,
-      "Name": "Abdullah ",
-      "Team": "Tax Investigation and Anti-Evasion Department",
-      "Total Steps": 141
-    },
-    {
-      "Position": 307,
-      "Name": "Rawda AlTahri",
-      "Team": "Tax Audit Department",
-      "Total Steps": 132
-    },
-    {
-      "Position": 308,
-      "Name": "Fatima alserkal",
-      "Team": "Tax Audit Department",
-      "Total Steps": 126
-    },
-    {
-      "Position": 309,
-      "Name": "Raman ",
-      "Team": "Tax Policy and International Relations Department",
-      "Total Steps": 34
-    },
-    {
-      "Position": 310,
-      "Name": "Ahmad Qawasmeh",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 13
-    },
-    {
-      "Position": 311,
-      "Name": "Rahim Mahmoud",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 0
-    },
-    {
-      "Position": 312,
-      "Name": "Janeesh Kotta Parambil",
-      "Team": "Tax Audit Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 313,
-      "Name": "Simon Z",
-      "Team": "Tax Operation Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 314,
-      "Name": "Hind ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 315,
-      "Name": "Fnq ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 316,
-      "Name": "Hamdan Alyammahi",
-      "Team": "Project Management Office",
-      "Total Steps": 0
-    },
-    {
-      "Position": 317,
-      "Name": "Abdulla Alkhoori",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 0
-    },
-    {
-      "Position": 318,
-      "Name": "Suleiman Mesalam",
-      "Team": "Tax Audit Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 319,
-      "Name": "Mohamed Ibrahim Abdul Aziz",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 320,
-      "Name": "Abdullah Abdul Aleem",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 0
-    },
-    {
-      "Position": 321,
-      "Name": "Ahmad Alshalabi",
-      "Team": "Information Technology Sector",
-      "Total Steps": 0
-    },
-    {
-      "Position": 322,
-      "Name": "Fatima Alhammadi",
-      "Team": "Tax Payer Services Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 323,
-      "Name": " ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 324,
-      "Name": "Karim Sallam",
-      "Team": "Project Management Office",
-      "Total Steps": 0
-    },
-    {
-      "Position": 325,
-      "Name": "Amar Abass",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 0
-    },
-    {
-      "Position": 326,
-      "Name": "Dishant Chadha",
-      "Team": "Tax Audit Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 327,
-      "Name": "Abdulla Albastaki",
-      "Team": "Information Technology Sector",
-      "Total Steps": 0
-    },
-    {
-      "Position": 328,
-      "Name": "Ethar ",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 329,
-      "Name": "Fares Alhosani",
-      "Team": "Tax Enforcement Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 330,
-      "Name": "Sara alz",
-      "Team": "Tax Operation Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 331,
-      "Name": "Ahmed Mahmoud",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 332,
-      "Name": "Suliman ",
-      "Team": "Tax Operation Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 333,
-      "Name": "Ali Waleed Alsyyadi",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 0
-    },
-    {
-      "Position": 334,
-      "Name": "Kashish ",
-      "Team": "Tax Audit Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 335,
-      "Name": "Obay Abadi",
-      "Team": "Information Technology Sector",
-      "Total Steps": 0
-    },
-    {
-      "Position": 336,
-      "Name": "Abdulrahman ",
-      "Team": "Information Technology Sector",
-      "Total Steps": 0
-    },
-    {
-      "Position": 337,
-      "Name": "Aayan Anwer",
-      "Team": "General Affairs Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 338,
-      "Name": "Salem beni jaber",
-      "Team": "Tax Operation Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 339,
-      "Name": "Oussama Zrouki",
-      "Team": "Tax Payer Support Office",
-      "Total Steps": 0
-    },
-    {
-      "Position": 340,
-      "Name": "Abdulla Salem almahri",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 0
-    },
-    {
-      "Position": 341,
-      "Name": "Ahmed osman",
-      "Team": "Legal Affairs Department",
-      "Total Steps": 0
-    }
+  "asOf": "02 Nov 2026, 18:43 (UAE time)",
+  "rows": [
+    { "p": 1, "n": "Walaa Beltagy", "t": "Tax Operation Department", "s": 104293 },
+    { "p": 2, "n": "Eisa Alhammadi", "t": "Tax Enforcement Department", "s": 93467 },
+    { "p": 3, "n": "Ahmed Alhosani", "t": "Tax Enforcement Department", "s": 73576 },
+    { "p": 4, "n": "Abdulla alfalasi", "t": "Tax Payer Services Department", "s": 68850 },
+    { "p": 5, "n": "Anil Chhablani", "t": "Tax Audit Department", "s": 67716 },
+    { "p": 6, "n": "Jeremy Sherwood", "t": "Director General Office and Internal Audit Office", "s": 65306 },
+    { "p": 7, "n": "Saoud", "t": "Tax Audit Department", "s": 64573 },
+    { "p": 8, "n": "Mohamed Alfalasi", "t": "Financial Affairs Department", "s": 60382 },
+    { "p": 9, "n": "Msallam", "t": "Tax Operation Department", "s": 59715 },
+    { "p": 10, "n": "Shareef Alblooshi", "t": "Tax Payer Services Department", "s": 59651 },
+    { "p": 11, "n": "Ahmed Almaazmi", "t": "Director General Office and Internal Audit Office", "s": 58616 },
+    { "p": 12, "n": "Jasim Haddad", "t": "Human Resources Department", "s": 57978 },
+    { "p": 13, "n": "Asma Alhammadi", "t": "Human Resources Department", "s": 54938 },
+    { "p": 14, "n": "Abdulla Bin Haider", "t": "Tax Investigation and Anti-Evasion Department", "s": 53209 },
+    { "p": 15, "n": "Aaesha Alsawaleh", "t": "Tax Investigation and Anti-Evasion Department", "s": 52895 },
+    { "p": 16, "n": "MOHAMED TEMRAZ", "t": "Tax Policy and International Relations Department", "s": 50567 },
+    { "p": 17, "n": "Badir alali", "t": "Tax Payer Services Department", "s": 49356 },
+    { "p": 18, "n": "Humaid Al Hammadi", "t": "Tax Enforcement Department", "s": 49025 },
+    { "p": 19, "n": "Fatmah Alawadhi", "t": "Tax Investigation and Anti-Evasion Department", "s": 48218 },
+    { "p": 20, "n": "Hamdan alketbi", "t": "Tax Enforcement Department", "s": 46865 },
+    { "p": 21, "n": "Ridha", "t": "Tax Policy and International Relations Department", "s": 46489 },
+    { "p": 22, "n": "Saood Barakat", "t": "Director General Office and Internal Audit Office", "s": 46279 },
+    { "p": 23, "n": "Ibrahim Al Ali", "t": "Project Management Office", "s": 42316 },
+    { "p": 24, "n": "Aysha7", "t": "Tax Investigation and Anti-Evasion Department", "s": 41592 },
+    { "p": 25, "n": "Vinesh Vagadia", "t": "Tax Policy and International Relations Department", "s": 41382 },
+    { "p": 26, "n": "Mahra", "t": "Human Resources Department", "s": 40038 },
+    { "p": 27, "n": "Taiseer", "t": "Tax Payer Support Office", "s": 39498 },
+    { "p": 28, "n": "Hamed almheiri", "t": "Tax Operation Department", "s": 38535 },
+    { "p": 29, "n": "Shahad", "t": "General Affairs Department", "s": 37219 },
+    { "p": 30, "n": "Omar osman", "t": "Tax Operation Department", "s": 37167 },
+    { "p": 31, "n": "Khadija", "t": "Tax Policy and International Relations Department", "s": 36967 },
+    { "p": 32, "n": "Ahmad", "t": "Financial Affairs Department", "s": 36924 },
+    { "p": 33, "n": "Mohammed alawadhi", "t": "Tax Audit Department", "s": 36640 },
+    { "p": 34, "n": "Nicola Butt", "t": "Tax Audit Department", "s": 36516 },
+    { "p": 35, "n": "Bedoor", "t": "Tax Payer Services Department", "s": 36455 },
+    { "p": 36, "n": "Abdulla Alsuwaidi", "t": "Project Management Office", "s": 36019 },
+    { "p": 37, "n": "Mohammed Ahli", "t": "Human Resources Department", "s": 35735 },
+    { "p": 38, "n": "Awab Adel", "t": "Tax Operation Department", "s": 35415 },
+    { "p": 39, "n": "Hamda", "t": "Tax Payer Support Office", "s": 34892 },
+    { "p": 40, "n": "Adel Karmustaji", "t": "Tax Enforcement Department", "s": 34377 },
+    { "p": 41, "n": "Moza Alketbi", "t": "Tax Payer Services Department", "s": 34371 },
+    { "p": 42, "n": "Budoor", "t": "Tax Payer Support Office", "s": 34299 },
+    { "p": 43, "n": "Suraj Prem", "t": "Tax Policy and International Relations Department", "s": 33834 },
+    { "p": 44, "n": "AbdulRahman Adel", "t": "Information Technology Sector", "s": 33138 },
+    { "p": 45, "n": "afra almheiri", "t": "Strategy and Future Department", "s": 32344 },
+    { "p": 46, "n": "Marwa", "t": "Tax Payer Services Department", "s": 31395 },
+    { "p": 47, "n": "nayef", "t": "Tax Enforcement Department", "s": 31335 },
+    { "p": 48, "n": "Sara Hussain", "t": "Project Management Office", "s": 31333 },
+    { "p": 49, "n": "Hazem Alaboud", "t": "Human Resources Department", "s": 31182 },
+    { "p": 50, "n": "Maryam Al Ali", "t": "Human Resources Department", "s": 30605 },
+    { "p": 51, "n": "Hashem Alhashemi", "t": "Project Management Office", "s": 30538 },
+    { "p": 52, "n": "Ayesha Abdulla", "t": "Tax Audit Department", "s": 28843 },
+    { "p": 53, "n": "Mohamed alaskar", "t": "General Affairs Department", "s": 28600 },
+    { "p": 54, "n": "Mohamed Abdulla", "t": "Tax Payer Services Department", "s": 28343 },
+    { "p": 55, "n": "Manmohandas", "t": "Tax Investigation and Anti-Evasion Department", "s": 28107 },
+    { "p": 56, "n": "Jamal Alsuwaidi", "t": "Strategy and Future Department", "s": 27857 },
+    { "p": 57, "n": "Hind AlZarooni", "t": "Tax Operation Department", "s": 27070 },
+    { "p": 58, "n": "Vinayak Budapanahalli", "t": "Director General Office and Internal Audit Office", "s": 26782 },
+    { "p": 59, "n": "Maitha", "t": "Human Resources Department", "s": 26490 },
+    { "p": 60, "n": "Abdulrahman Alalili", "t": "Project Management Office", "s": 26360 },
+    { "p": 61, "n": "Ahmad Almutawa", "t": "General Affairs Department", "s": 26065 },
+    { "p": 62, "n": "Afnan", "t": "Tax Audit Department", "s": 25933 },
+    { "p": 63, "n": "Mohamed aljuneibi", "t": "Tax Enforcement Department", "s": 25893 },
+    { "p": 64, "n": "Fatma Alsuwaidi", "t": "Tax Payer Services Department", "s": 25867 },
+    { "p": 65, "n": "Maryam", "t": "Tax Operation Department", "s": 25856 },
+    { "p": 66, "n": "Sultan", "t": "Tax Payer Services Department", "s": 25488 },
+    { "p": 67, "n": "Saif Alsuwaidi", "t": "Tax Payer Support Office", "s": 25337 },
+    { "p": 68, "n": "Reem Alnuaimi", "t": "Tax Payer Services Department", "s": 25155 },
+    { "p": 69, "n": "Anil Thomas", "t": "Information Technology Sector", "s": 25093 },
+    { "p": 70, "n": "AHMED ALSHARJI", "t": "General Affairs Department", "s": 24702 },
+    { "p": 71, "n": "Jamal AlMarzooqi", "t": "Financial Affairs Department", "s": 24501 },
+    { "p": 72, "n": "Saif", "t": "Tax Operation Department", "s": 24305 },
+    { "p": 73, "n": "Mohamed Alansaari", "t": "Tax Enforcement Department", "s": 24178 },
+    { "p": 74, "n": "Allam", "t": "Financial Affairs Department", "s": 23791 },
+    { "p": 75, "n": "Hessa", "t": "Tax Audit Department", "s": 23714 },
+    { "p": 76, "n": "Michael Estephan", "t": "Tax Payer Support Office", "s": 23624 },
+    { "p": 77, "n": "Alaa Sallam", "t": "Tax Operation Department", "s": 23612 },
+    { "p": 78, "n": "Abdulaziz", "t": "Director General Office and Internal Audit Office", "s": 23307 },
+    { "p": 79, "n": "AAA", "t": "Tax Investigation and Anti-Evasion Department", "s": 23053 },
+    { "p": 80, "n": "Fatma", "t": "Tax Payer Services Department", "s": 22612 },
+    { "p": 81, "n": "ELSAADANY", "t": "Tax Payer Support Office", "s": 21897 },
+    { "p": 82, "n": "Eissa alraeesi", "t": "Tax Enforcement Department", "s": 21729 },
+    { "p": 83, "n": "Mohammed Mokhtari", "t": "Legal Affairs Department", "s": 21709 },
+    { "p": 84, "n": "Sarmad Nasir", "t": "Project Management Office", "s": 21489 },
+    { "p": 85, "n": "Jishnudas Pazhedath", "t": "Information Technology Sector", "s": 21351 },
+    { "p": 86, "n": "Abdulla Alkindi", "t": "General Affairs Department", "s": 20956 },
+    { "p": 87, "n": "Hamad Al Hammadi", "t": "Tax Payer Services Department", "s": 20896 },
+    { "p": 88, "n": "YUSUF ALTAMIMI", "t": "Tax Enforcement Department", "s": 20858 },
+    { "p": 89, "n": "Mohamed Yousif Alrasheed", "t": "Tax Investigation and Anti-Evasion Department", "s": 20702 },
+    { "p": 90, "n": "Shaikha", "t": "Information Technology Sector", "s": 20281 },
+    { "p": 91, "n": "Majd Hamdan", "t": "Tax Policy and International Relations Department", "s": 20226 },
+    { "p": 92, "n": "Yasser Elsaigh", "t": "Tax Audit Department", "s": 20091 },
+    { "p": 93, "n": "Saood Ahli", "t": "Tax Enforcement Department", "s": 19822 },
+    { "p": 94, "n": "Saeed Ahmad", "t": "Tax Payer Support Office", "s": 19786 },
+    { "p": 95, "n": "Ahmed Alshehhi", "t": "Tax Payer Services Department", "s": 19593 },
+    { "p": 96, "n": "Ahmad Aljoulani", "t": "Government Communication Department", "s": 19487 },
+    { "p": 97, "n": "Suha Qadri", "t": "Tax Audit Department", "s": 19371 },
+    { "p": 98, "n": "Abdulla .H", "t": "Tax Operation Department", "s": 19303 },
+    { "p": 99, "n": "Gharisa Lootah", "t": "Tax Policy and International Relations Department", "s": 19263 },
+    { "p": 100, "n": "Sultan", "t": "Financial Affairs Department", "s": 18911 },
+    { "p": 101, "n": "Louai", "t": "Information Technology Sector", "s": 18663 },
+    { "p": 102, "n": "Hamda J", "t": "Tax Operation Department", "s": 18432 },
+    { "p": 103, "n": "Wael Khadra", "t": "Information Technology Sector", "s": 18415 },
+    { "p": 104, "n": "Osama Mohamed", "t": "Information Technology Sector", "s": 18045 },
+    { "p": 105, "n": "Reemm", "t": "General Affairs Department", "s": 17951 },
+    { "p": 106, "n": "Houda", "t": "Tax Policy and International Relations Department", "s": 17901 },
+    { "p": 107, "n": "Thani", "t": "Tax Operation Department", "s": 17821 },
+    { "p": 108, "n": "Abdulla aljawder", "t": "Tax Payer Support Office", "s": 17591 },
+    { "p": 109, "n": "Yusuf", "t": "Tax Audit Department", "s": 17575 },
+    { "p": 110, "n": "Sara Hamza", "t": "Strategy and Future Department", "s": 16683 },
+    { "p": 111, "n": "Nupur Jain", "t": "Tax Policy and International Relations Department", "s": 16622 },
+    { "p": 112, "n": "Faizan khalid", "t": "Tax Payer Support Office", "s": 16606 },
+    { "p": 113, "n": "Alhashmi", "t": "Tax Operation Department", "s": 16460 },
+    { "p": 114, "n": "Mohammed aqeel mohammed", "t": "Tax Operation Department", "s": 16334 },
+    { "p": 115, "n": "Magdi Ibrahim", "t": "Tax Payer Support Office", "s": 16333 },
+    { "p": 116, "n": "Abdulla AlYafei", "t": "Human Resources Department", "s": 16125 },
+    { "p": 117, "n": "Mukesh", "t": "Information Technology Sector", "s": 15953 },
+    { "p": 118, "n": "Mustafa Khirfan", "t": "Tax Payer Services Department", "s": 15915 },
+    { "p": 119, "n": "Nada", "t": "Human Resources Department", "s": 15878 },
+    { "p": 120, "n": "Hager Fathi", "t": "Tax Operation Department", "s": 15699 },
+    { "p": 121, "n": "Lesha", "t": "Tax Policy and International Relations Department", "s": 15660 },
+    { "p": 122, "n": "Muawia", "t": "Director General Office and Internal Audit Office", "s": 15486 },
+    { "p": 123, "n": "Omar Alraeesi", "t": "Tax Enforcement Department", "s": 15350 },
+    { "p": 124, "n": "Ghassan", "t": "Project Management Office", "s": 15284 },
+    { "p": 125, "n": "Challenger", "t": "Project Management Office", "s": 15193 },
+    { "p": 126, "n": "Muna Almarzooqi", "t": "Strategy and Future Department", "s": 15089 },
+    { "p": 127, "n": "Abdulla Alawadhi", "t": "Tax Enforcement Department", "s": 15004 },
+    { "p": 128, "n": "Abdulaziz Alhosani", "t": "Tax Operation Department", "s": 14784 },
+    { "p": 129, "n": "Hamda AlAli", "t": "Strategy and Future Department", "s": 14734 },
+    { "p": 130, "n": "HH", "t": "Tax Payer Services Department", "s": 14718 },
+    { "p": 131, "n": "Shaikha Alketbi", "t": "Human Resources Department", "s": 14500 },
+    { "p": 132, "n": "Doaa", "t": "Tax Operation Department", "s": 14418 },
+    { "p": 133, "n": "Aswin Reddy", "t": "Information Technology Sector", "s": 14375 },
+    { "p": 134, "n": "Hamad Muallemi", "t": "Tax Payer Support Office", "s": 13327 },
+    { "p": 135, "n": "Hind Alowais", "t": "Tax Investigation and Anti-Evasion Department", "s": 13180 },
+    { "p": 136, "n": "Muna Alhammadi", "t": "Government Communication Department", "s": 13150 },
+    { "p": 137, "n": "Jaimishkumar Khodidasbhai Patel", "t": "Tax Policy and International Relations Department", "s": 13063 },
+    { "p": 138, "n": "Maryam Rajab", "t": "Tax Payer Services Department", "s": 13028 },
+    { "p": 139, "n": "Huda Elbashary", "t": "Project Management Office", "s": 12948 },
+    { "p": 140, "n": "Rea Mangalindan", "t": "Tax Audit Department", "s": 12789 },
+    { "p": 141, "n": "Mohammed Bondouk", "t": "Tax Operation Department", "s": 12424 },
+    { "p": 142, "n": "Tareq", "t": "Tax Audit Department", "s": 12393 },
+    { "p": 143, "n": "moza almarri", "t": "Tax Payer Services Department", "s": 12340 },
+    { "p": 144, "n": "Fatma Hassan", "t": "Tax Payer Services Department", "s": 12312 },
+    { "p": 145, "n": "Meera almuhairi", "t": "Tax Payer Services Department", "s": 12253 },
+    { "p": 146, "n": "Obaid jamal", "t": "Tax Operation Department", "s": 12054 },
+    { "p": 147, "n": "Christine Awad", "t": "Tax Policy and International Relations Department", "s": 12009 },
+    { "p": 148, "n": "Fathima Shurookh", "t": "Tax Operation Department", "s": 11961 },
+    { "p": 149, "n": "Sunita Taijwani", "t": "Tax Policy and International Relations Department", "s": 11953 },
+    { "p": 150, "n": "Rawda Alhashimi", "t": "Tax Operation Department", "s": 11949 },
+    { "p": 151, "n": "Amr nasser", "t": "General Affairs Department", "s": 11878 },
+    { "p": 152, "n": "Hamdan Falamarzi", "t": "Government Communication Department", "s": 11793 },
+    { "p": 153, "n": "Saida Kaddoumi-Osman", "t": "Tax Policy and International Relations Department", "s": 11745 },
+    { "p": 154, "n": "Karam 7ijjawi", "t": "Legal Affairs Department", "s": 11620 },
+    { "p": 155, "n": "Abdullah", "t": "Tax Payer Support Office", "s": 11314 },
+    { "p": 156, "n": "Saud", "t": "Tax Audit Department", "s": 11293 },
+    { "p": 157, "n": "Firnas Furkhan", "t": "Tax Audit Department", "s": 11045 },
+    { "p": 158, "n": "Amr", "t": "Tax Operation Department", "s": 10955 },
+    { "p": 159, "n": "Jessica Hassan", "t": "Tax Policy and International Relations Department", "s": 10772 },
+    { "p": 160, "n": "Fatma", "t": "Information Technology Sector", "s": 10755 },
+    { "p": 161, "n": "Shaikha Alblooshi", "t": "Government Communication Department", "s": 10753 },
+    { "p": 162, "n": "Khawla", "t": "Tax Payer Support Office", "s": 10592 },
+    { "p": 163, "n": "Sunil Kumar Sunkara", "t": "Information Technology Sector", "s": 10589 },
+    { "p": 164, "n": "Abdulkarim Koori", "t": "Tax Payer Support Office", "s": 10510 },
+    { "p": 165, "n": "Fatima Tareq", "t": "Tax Audit Department", "s": 10509 },
+    { "p": 166, "n": "Ravikiran Madugula", "t": "Tax Audit Department", "s": 10364 },
+    { "p": 167, "n": "Gaurav Srivastava", "t": "Information Technology Sector", "s": 10160 },
+    { "p": 168, "n": "Rafia Ahli", "t": "Tax Audit Department", "s": 10160 },
+    { "p": 169, "n": "Dipak Sawant", "t": "Information Technology Sector", "s": 10123 },
+    { "p": 170, "n": "AMNA ALBEDWAWI", "t": "Legal Affairs Department", "s": 10102 },
+    { "p": 171, "n": "Mahmoud Houdali", "t": "Information Technology Sector", "s": 10023 },
+    { "p": 172, "n": "Rodha", "t": "Tax Audit Department", "s": 9979 },
+    { "p": 173, "n": "Mohammed Ahmed Al Ali", "t": "Tax Payer Support Office", "s": 9942 },
+    { "p": 174, "n": "Ravi", "t": "Project Management Office", "s": 9823 },
+    { "p": 175, "n": "Neil Anthony Malekar", "t": "Tax Payer Support Office", "s": 9510 },
+    { "p": 176, "n": "Akram S", "t": "Tax Payer Support Office", "s": 9320 },
+    { "p": 177, "n": "Alaa", "t": "Tax Operation Department", "s": 9282 },
+    { "p": 178, "n": "Mohamed Roshdy", "t": "Tax Enforcement Department", "s": 9165 },
+    { "p": 179, "n": "Husam", "t": "Tax Payer Support Office", "s": 9116 },
+    { "p": 180, "n": "Safia", "t": "Tax Audit Department", "s": 9079 },
+    { "p": 181, "n": "Albannai.7", "t": "Tax Investigation and Anti-Evasion Department", "s": 8900 },
+    { "p": 182, "n": "Khaled Al Ali", "t": "Project Management Office", "s": 8789 },
+    { "p": 183, "n": "Khalifa", "t": "Tax Enforcement Department", "s": 8725 },
+    { "p": 184, "n": "Aisha Mehta", "t": "Information Technology Sector", "s": 8721 },
+    { "p": 185, "n": "Mahra", "t": "Tax Operation Department", "s": 8611 },
+    { "p": 186, "n": "Hashem Abusalem", "t": "Director General Office and Internal Audit Office", "s": 8471 },
+    { "p": 187, "n": "Maytha AlGhfeli", "t": "Information Technology Sector", "s": 8467 },
+    { "p": 188, "n": "Nassir miran", "t": "Tax Payer Support Office", "s": 8444 },
+    { "p": 189, "n": "Arif Abdulrahman", "t": "Tax Investigation and Anti-Evasion Department", "s": 8317 },
+    { "p": 190, "n": "Helen Taylor", "t": "Tax Investigation and Anti-Evasion Department", "s": 8196 },
+    { "p": 191, "n": "Meera Alali", "t": "Tax Operation Department", "s": 8034 },
+    { "p": 192, "n": "Yousuf Aljaber", "t": "Tax Payer Services Department", "s": 8023 },
+    { "p": 193, "n": "Haya", "t": "Tax Payer Services Department", "s": 7816 },
+    { "p": 194, "n": "Fatma", "t": "Tax Policy and International Relations Department", "s": 7733 },
+    { "p": 195, "n": "Muna Alshamsi", "t": "Government Communication Department", "s": 7555 },
+    { "p": 196, "n": "Maryam Almehza", "t": "Legal Affairs Department", "s": 7514 },
+    { "p": 197, "n": "Mahra Alzarooni", "t": "Tax Operation Department", "s": 7491 },
+    { "p": 198, "n": "Asaad Abdo", "t": "Project Management Office", "s": 7472 },
+    { "p": 199, "n": "Mansour.aldhaheri", "t": "Tax Enforcement Department", "s": 7395 },
+    { "p": 200, "n": "Walid Abdulrahman Khamis", "t": "Tax Enforcement Department", "s": 7352 },
+    { "p": 201, "n": "Charmaine Pelagio", "t": "Tax Policy and International Relations Department", "s": 7341 },
+    { "p": 202, "n": "Abdelrahman", "t": "Information Technology Sector", "s": 7307 },
+    { "p": 203, "n": "Ayisha", "t": "Tax Audit Department", "s": 7245 },
+    { "p": 204, "n": "futtaim almarzooqi", "t": "Tax Investigation and Anti-Evasion Department", "s": 7212 },
+    { "p": 205, "n": "Hassan almarzoqi", "t": "Tax Enforcement Department", "s": 7105 },
+    { "p": 206, "n": "Sara Alkhoori", "t": "Tax Investigation and Anti-Evasion Department", "s": 7098 },
+    { "p": 207, "n": "Mariam", "t": "Director General Office and Internal Audit Office", "s": 7044 },
+    { "p": 208, "n": "Adnan Aldhuhoori", "t": "Legal Affairs Department", "s": 7028 },
+    { "p": 209, "n": "Zeinab Dalmar", "t": "Tax Payer Support Office", "s": 7017 },
+    { "p": 210, "n": "Ahmad", "t": "Legal Affairs Department", "s": 6951 },
+    { "p": 211, "n": "Saud Khalid", "t": "Tax Audit Department", "s": 6924 },
+    { "p": 212, "n": "Mahra", "t": "Tax Payer Services Department", "s": 6904 },
+    { "p": 213, "n": "amna alloghani", "t": "Government Communication Department", "s": 6747 },
+    { "p": 214, "n": "Mohamed Zein", "t": "Information Technology Sector", "s": 6713 },
+    { "p": 215, "n": "Elyazia Khalifa", "t": "Tax Operation Department", "s": 6631 },
+    { "p": 216, "n": "Fatma", "t": "Legal Affairs Department", "s": 6343 },
+    { "p": 217, "n": "Miad Abdulsalam", "t": "Financial Affairs Department", "s": 6235 },
+    { "p": 218, "n": "Younis Gharib", "t": "Legal Affairs Department", "s": 6193 },
+    { "p": 219, "n": "Saurabh Arya", "t": "Information Technology Sector", "s": 6068 },
+    { "p": 220, "n": "Esraa", "t": "Tax Audit Department", "s": 5998 },
+    { "p": 221, "n": "Unais", "t": "Tax Audit Department", "s": 5961 },
+    { "p": 222, "n": "Saif Alfalasi", "t": "Tax Audit Department", "s": 5863 },
+    { "p": 223, "n": "Khawla", "t": "Strategy and Future Department", "s": 5843 },
+    { "p": 224, "n": "Shamsa Almheiri", "t": "Financial Affairs Department", "s": 5825 },
+    { "p": 225, "n": "Zainab Salman", "t": "Information Technology Sector", "s": 5784 },
+    { "p": 226, "n": "Hamda A", "t": "Tax Operation Department", "s": 5622 },
+    { "p": 227, "n": "Fahad Alhosani", "t": "Director General Office and Internal Audit Office", "s": 5529 },
+    { "p": 228, "n": "Nouf alansari", "t": "Tax Payer Services Department", "s": 5444 },
+    { "p": 229, "n": "Hazem Sallowm", "t": "Information Technology Sector", "s": 5425 },
+    { "p": 230, "n": "Nesma Hammam", "t": "Tax Operation Department", "s": 5305 },
+    { "p": 231, "n": "Mouza Aldhaheri", "t": "Legal Affairs Department", "s": 5260 },
+    { "p": 232, "n": "Laila", "t": "Tax Payer Support Office", "s": 5012 },
+    { "p": 233, "n": "Zahra Aldahmani", "t": "Tax Payer Services Department", "s": 4995 },
+    { "p": 234, "n": "Sowmya Chinta", "t": "Information Technology Sector", "s": 4868 },
+    { "p": 235, "n": "Maithah", "t": "Director General Office and Internal Audit Office", "s": 4846 },
+    { "p": 236, "n": "Budoor AlKhaldi", "t": "Tax Operation Department", "s": 4829 },
+    { "p": 237, "n": "Maryam", "t": "Tax Policy and International Relations Department", "s": 4724 },
+    { "p": 238, "n": "hind karam", "t": "Tax Policy and International Relations Department", "s": 4681 },
+    { "p": 239, "n": "Mozah Alhashmi", "t": "Tax Operation Department", "s": 4592 },
+    { "p": 240, "n": "Mubarak Alkhajah", "t": "Tax Payer Services Department", "s": 4575 },
+    { "p": 241, "n": "Eiman", "t": "Legal Affairs Department", "s": 4543 },
+    { "p": 242, "n": "Hafiza Nour", "t": "Tax Payer Support Office", "s": 4475 },
+    { "p": 243, "n": "Shaimaa Alhammadi", "t": "Tax Audit Department", "s": 4193 },
+    { "p": 244, "n": "Divya", "t": "Tax Audit Department", "s": 3974 },
+    { "p": 245, "n": "Mojahed", "t": "Tax Payer Support Office", "s": 3890 },
+    { "p": 246, "n": "Moaza", "t": "Tax Payer Support Office", "s": 3855 },
+    { "p": 247, "n": "Muaid saif", "t": "Tax Payer Support Office", "s": 3840 },
+    { "p": 248, "n": "Maithah", "t": "Tax Investigation and Anti-Evasion Department", "s": 3792 },
+    { "p": 249, "n": "Ayesha Ahmad", "t": "Tax Payer Services Department", "s": 3762 },
+    { "p": 250, "n": "Dodo", "t": "Tax Payer Support Office", "s": 3729 },
+    { "p": 251, "n": "Eiman", "t": "Tax Payer Support Office", "s": 3709 },
+    { "p": 252, "n": "Mohammad Abusalem", "t": "Tax Payer Services Department", "s": 3450 },
+    { "p": 253, "n": "Abdelelah", "t": "Tax Payer Support Office", "s": 3343 },
+    { "p": 254, "n": "A.Ahli", "t": "Legal Affairs Department", "s": 3011 },
+    { "p": 255, "n": "Salem Ali", "t": "Tax Payer Services Department", "s": 2916 },
+    { "p": 256, "n": "Venkata Raju Duggirala", "t": "Information Technology Sector", "s": 2820 },
+    { "p": 257, "n": "Nasser Abdulrahim Mohamad", "t": "Legal Affairs Department", "s": 2814 },
+    { "p": 258, "n": "Saeed Amir Muhammad", "t": "Tax Payer Support Office", "s": 2746 },
+    { "p": 259, "n": "Marwa", "t": "Tax Payer Support Office", "s": 2732 },
+    { "p": 260, "n": "Sultan", "t": "Tax Enforcement Department", "s": 2684 },
+    { "p": 261, "n": "Hessa", "t": "Tax Audit Department", "s": 2603 },
+    { "p": 262, "n": "Mahmood Abu Ghueleh", "t": "Tax Policy and International Relations Department", "s": 2373 },
+    { "p": 263, "n": "A.Team leader Sheko", "t": "Tax Payer Support Office", "s": 2355 },
+    { "p": 264, "n": "Ola", "t": "Legal Affairs Department", "s": 2269 },
+    { "p": 265, "n": "Abdulrahman Alghoul", "t": "Legal Affairs Department", "s": 2084 },
+    { "p": 266, "n": "SH", "t": "Tax Enforcement Department", "s": 2068 },
+    { "p": 267, "n": "Mira", "t": "Legal Affairs Department", "s": 1922 },
+    { "p": 268, "n": "Noora", "t": "Information Technology Sector", "s": 1889 },
+    { "p": 269, "n": "Roudha Almheiri", "t": "Tax Payer Services Department", "s": 1885 },
+    { "p": 270, "n": "Ahmed El Zain", "t": "Legal Affairs Department", "s": 1760 },
+    { "p": 271, "n": "Mohannad Safadi", "t": "Tax Audit Department", "s": 1744 },
+    { "p": 272, "n": "Abdalla Shaloh", "t": "Legal Affairs Department", "s": 1695 },
+    { "p": 273, "n": "Reem", "t": "Tax Payer Support Office", "s": 1630 },
+    { "p": 274, "n": "Gulrez Alam", "t": "Information Technology Sector", "s": 1594 },
+    { "p": 275, "n": "Abdulla Alatiyat", "t": "Tax Audit Department", "s": 1486 },
+    { "p": 276, "n": "Alia Bin Shafia", "t": "Tax Operation Department", "s": 1451 },
+    { "p": 277, "n": "Mashael Alhammadi", "t": "Tax Payer Services Department", "s": 1391 },
+    { "p": 278, "n": "Fatima", "t": "Tax Payer Support Office", "s": 1387 },
+    { "p": 279, "n": "Salma", "t": "Tax Payer Support Office", "s": 1386 },
+    { "p": 280, "n": "Maryam", "t": "Tax Payer Support Office", "s": 1373 },
+    { "p": 281, "n": "Abdeldjalil benmediouni", "t": "Tax Payer Support Office", "s": 1367 },
+    { "p": 282, "n": "Iman", "t": "Tax Payer Support Office", "s": 1318 },
+    { "p": 283, "n": "Hanan Alaqili", "t": "Legal Affairs Department", "s": 1265 },
+    { "p": 284, "n": "Mira AlMahmoud", "t": "Tax Policy and International Relations Department", "s": 1176 },
+    { "p": 285, "n": "KalthamAlharthi", "t": "Director General Office and Internal Audit Office", "s": 1117 },
+    { "p": 286, "n": "Nayeem Mohammed", "t": "Information Technology Sector", "s": 1105 },
+    { "p": 287, "n": "Meera alghfeli", "t": "Tax Audit Department", "s": 1089 },
+    { "p": 288, "n": "Ola Osama", "t": "Legal Affairs Department", "s": 1035 },
+    { "p": 289, "n": "Maryam Karam", "t": "Tax Audit Department", "s": 878 },
+    { "p": 290, "n": "Hessa Alserkal", "t": "Tax Payer Services Department", "s": 851 },
+    { "p": 291, "n": "Ibrahim", "t": "Tax Operation Department", "s": 751 },
+    { "p": 292, "n": "Manar", "t": "Tax Payer Support Office", "s": 706 },
+    { "p": 293, "n": "Hamzeh Al Karmi", "t": "Information Technology Sector", "s": 682 },
+    { "p": 294, "n": "Hamda Alnuaimi", "t": "Tax Policy and International Relations Department", "s": 589 },
+    { "p": 295, "n": "Hamad alzarooni", "t": "Legal Affairs Department", "s": 588 },
+    { "p": 296, "n": "Mohamed Lari", "t": "Legal Affairs Department", "s": 540 },
+    { "p": 297, "n": "Marwa", "t": "Tax Payer Support Office", "s": 539 },
+    { "p": 298, "n": "Maryam", "t": "Tax Payer Support Office", "s": 508 },
+    { "p": 299, "n": "Nada", "t": "Tax Operation Department", "s": 489 },
+    { "p": 300, "n": "Mohammad Murshed", "t": "Tax Operation Department", "s": 357 },
+    { "p": 301, "n": "Ayesha", "t": "Tax Policy and International Relations Department", "s": 349 },
+    { "p": 302, "n": "Abdulla Langawi", "t": "Tax Payer Services Department", "s": 240 },
+    { "p": 303, "n": "Abdou", "t": "Tax Enforcement Department", "s": 203 },
+    { "p": 304, "n": "Mohammed Abdulla", "t": "Tax Investigation and Anti-Evasion Department", "s": 191 },
+    { "p": 305, "n": "Shahin Shamsudheen", "t": "Tax Payer Support Office", "s": 154 },
+    { "p": 306, "n": "Abdullah", "t": "Tax Investigation and Anti-Evasion Department", "s": 141 },
+    { "p": 307, "n": "Rawda AlTahri", "t": "Tax Audit Department", "s": 132 },
+    { "p": 308, "n": "Fatima alserkal", "t": "Tax Audit Department", "s": 126 },
+    { "p": 309, "n": "Raman", "t": "Tax Policy and International Relations Department", "s": 34 },
+    { "p": 310, "n": "Ahmad Qawasmeh", "t": "Legal Affairs Department", "s": 13 },
+    { "p": 311, "n": "Rahim Mahmoud", "t": "Tax Payer Support Office", "s": 0 },
+    { "p": 312, "n": "Janeesh Kotta Parambil", "t": "Tax Audit Department", "s": 0 },
+    { "p": 313, "n": "Simon Z", "t": "Tax Operation Department", "s": 0 },
+    { "p": 314, "n": "Hind", "t": "Tax Audit Department", "s": 0 },
+    { "p": 315, "n": "Fnq", "t": "Tax Audit Department", "s": 0 },
+    { "p": 316, "n": "Hamdan Alyammahi", "t": "Project Management Office", "s": 0 },
+    { "p": 317, "n": "Abdulla Alkhoori", "t": "Tax Payer Support Office", "s": 0 },
+    { "p": 318, "n": "Suleiman Mesalam", "t": "Tax Audit Department", "s": 0 },
+    { "p": 319, "n": "Mohamed Ibrahim Abdul Aziz", "t": "Tax Payer Services Department", "s": 0 },
+    { "p": 320, "n": "Abdullah Abdul Aleem", "t": "Tax Payer Support Office", "s": 0 },
+    { "p": 321, "n": "Ahmad Alshalabi", "t": "Information Technology Sector", "s": 0 },
+    { "p": 322, "n": "Fatima Alhammadi", "t": "Tax Payer Services Department", "s": 0 },
+    { "p": 323, "n": "", "t": "Tax Audit Department", "s": 0 },
+    { "p": 324, "n": "Karim Sallam", "t": "Project Management Office", "s": 0 },
+    { "p": 325, "n": "Amar Abass", "t": "Tax Payer Support Office", "s": 0 },
+    { "p": 326, "n": "Dishant Chadha", "t": "Tax Audit Department", "s": 0 },
+    { "p": 327, "n": "Abdulla Albastaki", "t": "Information Technology Sector", "s": 0 },
+    { "p": 328, "n": "Ethar", "t": "Legal Affairs Department", "s": 0 },
+    { "p": 329, "n": "Fares Alhosani", "t": "Tax Enforcement Department", "s": 0 },
+    { "p": 330, "n": "Sara alz", "t": "Tax Operation Department", "s": 0 },
+    { "p": 331, "n": "Ahmed Mahmoud", "t": "Legal Affairs Department", "s": 0 },
+    { "p": 332, "n": "Suliman", "t": "Tax Operation Department", "s": 0 },
+    { "p": 333, "n": "Ali Waleed Alsyyadi", "t": "Tax Payer Support Office", "s": 0 },
+    { "p": 334, "n": "Kashish", "t": "Tax Audit Department", "s": 0 },
+    { "p": 335, "n": "Obay Abadi", "t": "Information Technology Sector", "s": 0 },
+    { "p": 336, "n": "Abdulrahman", "t": "Information Technology Sector", "s": 0 },
+    { "p": 337, "n": "Anar Anwer", "t": "General Affairs Department", "s": 0 },
+    { "p": 338, "n": "Salem beni jaber", "t": "Tax Operation Department", "s": 0 },
+    { "p": 339, "n": "Oussama Zrouki", "t": "Tax Payer Support Office", "s": 0 },
+    { "p": 340, "n": "Abdulla Salem almahri", "t": "Legal Affairs Department", "s": 0 },
+    { "p": 341, "n": "Ahmed osman", "t": "Legal Affairs Department", "s": 0 }
   ]
 }
