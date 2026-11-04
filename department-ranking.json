@@ -1,0 +1,39 @@
+{
+  "weekEnding": "To be announced",
+  "large": [
+    {
+      "rank": 1,
+      "department": ""
+    },
+    {
+      "rank": 2,
+      "department": ""
+    },
+    {
+      "rank": 3,
+      "department": ""
+    },
+    {
+      "rank": 4,
+      "department": ""
+    }
+  ],
+  "small": [
+    {
+      "rank": 1,
+      "department": ""
+    },
+    {
+      "rank": 2,
+      "department": ""
+    },
+    {
+      "rank": 3,
+      "department": ""
+    },
+    {
+      "rank": 4,
+      "department": ""
+    }
+  ]
+}
