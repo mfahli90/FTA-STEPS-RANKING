@@ -3,37 +3,37 @@
   "large": [
     {
       "rank": 1,
-      "department": ""
+      "department": "Tax Operation Department"
     },
     {
       "rank": 2,
-      "department": ""
+      "department": "Tax Audit Department"
     },
     {
       "rank": 3,
-      "department": ""
+      "department": "Tax Enforcement Department"
     },
     {
       "rank": 4,
-      "department": ""
+      "department": "Tax Payer Services Department"
     }
   ],
   "small": [
     {
       "rank": 1,
-      "department": ""
+      "department": "Human Resources Department"
     },
     {
       "rank": 2,
-      "department": ""
+      "department": "Tax Investigation and Anti-Evasion Department"
     },
     {
       "rank": 3,
-      "department": ""
+      "department": "Project Management Office"
     },
     {
       "rank": 4,
-      "department": ""
+      "department": "Director General Office and Internal Audit Office"
     }
   ]
 }
