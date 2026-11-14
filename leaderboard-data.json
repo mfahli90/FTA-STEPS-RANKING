@@ -1,433 +1,2573 @@
 {
-  "asOf": "13 Nov 2026, 17:46 (UAE time)",
+  "asOf": "14 Nov 2026, 14:09 (UAE time)",
   "rows": [
-    { "p": 1, "n": "Samer Msallam", "t": "Tax Operation Department", "s": 580343 },
-    { "p": 2, "n": "Walaa Beltagy", "t": "Tax Operation Department", "s": 556047 },
-    { "p": 3, "n": "Ahmed Alhosani", "t": "Tax Enforcement Department", "s": 541631 },
-    { "p": 4, "n": "Alaa Sallam", "t": "Tax Operation Department", "s": 410153 },
-    { "p": 5, "n": "Abdulla Alsuwaidi", "t": "Project Management Office", "s": 387019 },
-    { "p": 6, "n": "Anil Chhablani", "t": "Tax Audit Department", "s": 365556 },
-    { "p": 7, "n": "nayef", "t": "Tax Enforcement Department", "s": 360214 },
-    { "p": 8, "n": "Moza Alyassi", "t": "Strategy and Future Department", "s": 351503 },
-    { "p": 9, "n": "Saoud", "t": "Tax Audit Department", "s": 349578 },
-    { "p": 10, "n": "Ahmed Almaazmi", "t": "Director General Office and Internal Audit Office", "s": 340746 },
-    { "p": 11, "n": "Mohamed Alfalasi", "t": "Financial Affairs Department", "s": 332187 },
-    { "p": 12, "n": "Hamed almheiri", "t": "Tax Operation Department", "s": 317915 },
-    { "p": 13, "n": "Moh. Temraz", "t": "Tax Policy and International Relations Department", "s": 314632 },
-    { "p": 14, "n": "Fatmah Alawadhi", "t": "Tax Investigation and Anti-Evasion Department", "s": 307237 },
-    { "p": 15, "n": "Humaid Al Hammadi", "t": "Tax Enforcement Department", "s": 293871 },
-    { "p": 16, "n": "Shareef Alblooshi", "t": "Tax Payer Services Department", "s": 285125 },
-    { "p": 17, "n": "Jasim Haddad", "t": "Human Resources Department", "s": 283820 },
-    { "p": 18, "n": "Adel Karmustaji", "t": "Tax Enforcement Department", "s": 282774 },
-    { "p": 19, "n": "Afnan", "t": "Tax Audit Department", "s": 281507 },
-    { "p": 20, "n": "Jeremy Sherwood", "t": "Director General Office and Internal Audit Office", "s": 273902 },
-    { "p": 21, "n": "Asma Alhammadi", "t": "Human Resources Department", "s": 273508 },
-    { "p": 22, "n": "Bedoor", "t": "Tax Payer Services Department", "s": 271922 },
-    { "p": 23, "n": "Abdulla alfalasi", "t": "Tax Payer Services Department", "s": 263230 },
-    { "p": 24, "n": "Mohammed Ahli", "t": "Human Resources Department", "s": 254305 },
-    { "p": 25, "n": "Hassan almarzoqi", "t": "Tax Enforcement Department", "s": 232365 },
-    { "p": 26, "n": "Aysha7", "t": "Tax Investigation and Anti-Evasion Department", "s": 225701 },
-    { "p": 27, "n": "Mahra", "t": "Human Resources Department", "s": 222789 },
-    { "p": 28, "n": "Hamda", "t": "Tax Payer Support Office", "s": 219059 },
-    { "p": 29, "n": "Ahmad", "t": "Financial Affairs Department", "s": 215078 },
-    { "p": 30, "n": "Hamdan alketbi", "t": "Tax Enforcement Department", "s": 214679 },
-    { "p": 31, "n": "Aaesha Alsawaleh", "t": "Tax Investigation and Anti-Evasion Department", "s": 214090 },
-    { "p": 32, "n": "Sultan", "t": "Tax Payer Services Department", "s": 213491 },
-    { "p": 33, "n": "Khadija", "t": "Tax Policy and International Relations Department", "s": 212169 },
-    { "p": 34, "n": "Maitha", "t": "Human Resources Department", "s": 207442 },
-    { "p": 35, "n": "Christine Awad", "t": "Tax Policy and International Relations Department", "s": 205849 },
-    { "p": 36, "n": "Doaa", "t": "Tax Operation Department", "s": 205069 },
-    { "p": 37, "n": "Taiseer", "t": "Tax Payer Support Office", "s": 199629 },
-    { "p": 38, "n": "Awab Adel", "t": "Tax Operation Department", "s": 199315 },
-    { "p": 39, "n": "Hamdan Alyammahi", "t": "Project Management Office", "s": 198827 },
-    { "p": 40, "n": "Ridha", "t": "Tax Policy and International Relations Department", "s": 196844 },
-    { "p": 41, "n": "Ayesha AlFalasi", "t": "Tax Audit Department", "s": 196677 },
-    { "p": 42, "n": "Moza Alketbi", "t": "Tax Payer Services Department", "s": 192669 },
-    { "p": 43, "n": "Magdi Ibrahim", "t": "Tax Payer Support Office", "s": 191011 },
-    { "p": 44, "n": "Saeed Ahmad", "t": "Tax Payer Support Office", "s": 190720 },
-    { "p": 45, "n": "Saood Barakat", "t": "Director General Office and Internal Audit Office", "s": 187657 },
-    { "p": 46, "n": "Hamda J", "t": "Tax Operation Department", "s": 187351 },
-    { "p": 47, "n": "Anil Thomas", "t": "Information Technology Sector", "s": 185510 },
-    { "p": 48, "n": "Mukesh", "t": "Information Technology Sector", "s": 184430 },
-    { "p": 49, "n": "Sunil Kumar Sunkara", "t": "Information Technology Sector", "s": 184098 },
-    { "p": 50, "n": "Ahmad Almutawa", "t": "General Affairs Department", "s": 182540 },
-    { "p": 51, "n": "Hazem Alaboud", "t": "Human Resources Department", "s": 180026 },
-    { "p": 52, "n": "Abdulla Bin Haider", "t": "Tax Investigation and Anti-Evasion Department", "s": 179246 },
-    { "p": 53, "n": "Suraj Prem", "t": "Tax Policy and International Relations Department", "s": 177951 },
-    { "p": 54, "n": "Ibrahim Al Ali", "t": "Project Management Office", "s": 173849 },
-    { "p": 55, "n": "Mohamed aljuneibi", "t": "Tax Enforcement Department", "s": 173654 },
-    { "p": 56, "n": "Shahad", "t": "General Affairs Department", "s": 172134 },
-    { "p": 57, "n": "Maryam Al Ali", "t": "Human Resources Department", "s": 170955 },
-    { "p": 58, "n": "Marwa", "t": "Tax Payer Services Department", "s": 169875 },
-    { "p": 59, "n": "Nicola Butt", "t": "Tax Audit Department", "s": 169435 },
-    { "p": 60, "n": "Vinesh Vagadia", "t": "Tax Policy and International Relations Department", "s": 169255 },
-    { "p": 61, "n": "Mohammed alawadhi", "t": "Tax Audit Department", "s": 165264 },
-    { "p": 62, "n": "Khalifa", "t": "Tax Enforcement Department", "s": 163682 },
-    { "p": 63, "n": "Sarmad Nasir", "t": "Project Management Office", "s": 162995 },
-    { "p": 64, "n": "A.Ahli", "t": "Legal Affairs Department", "s": 162465 },
-    { "p": 65, "n": "Abdulrahman Alalili", "t": "Project Management Office", "s": 161692 },
-    { "p": 66, "n": "Janeesh Kotta Parambil", "t": "Tax Audit Department", "s": 161387 },
-    { "p": 67, "n": "Fatma", "t": "Information Technology Sector", "s": 160153 },
-    { "p": 68, "n": "Omar osman", "t": "Tax Operation Department", "s": 159378 },
-    { "p": 69, "n": "Sara Hussain Ahmad", "t": "Project Management Office", "s": 158887 },
-    { "p": 70, "n": "Eisa Alhammadi", "t": "Tax Enforcement Department", "s": 158858 },
-    { "p": 71, "n": "Jamal Alsuwaidi", "t": "Strategy and Future Department", "s": 158459 },
-    { "p": 72, "n": "Eissa alraeesi", "t": "Tax Enforcement Department", "s": 157943 },
-    { "p": 73, "n": "Shaikha Alketbi", "t": "Human Resources Department", "s": 156346 },
-    { "p": 74, "n": "Reemm", "t": "General Affairs Department", "s": 153005 },
-    { "p": 75, "n": "Reem Alnuaimi", "t": "Tax Payer Services Department", "s": 150257 },
-    { "p": 76, "n": "Budoor", "t": "Tax Payer Support Office", "s": 149944 },
-    { "p": 77, "n": "Mohammed Mokhtari", "t": "Legal Affairs Department", "s": 145040 },
-    { "p": 78, "n": "Shaikha", "t": "Information Technology Sector", "s": 142638 },
-    { "p": 79, "n": "Fatma Almheiri", "t": "Information Technology Sector", "s": 141711 },
-    { "p": 80, "n": "Mohamed alaskar", "t": "General Affairs Department", "s": 140619 },
-    { "p": 81, "n": "AHMED ALSHARJI", "t": "General Affairs Department", "s": 139936 },
-    { "p": 82, "n": "Sultan", "t": "Financial Affairs Department", "s": 138205 },
-    { "p": 83, "n": "Majd Hamdan", "t": "Tax Policy and International Relations Department", "s": 138054 },
-    { "p": 84, "n": "Abdulla Alkindi", "t": "General Affairs Department", "s": 137583 },
-    { "p": 85, "n": "Challenger", "t": "Project Management Office", "s": 136294 },
-    { "p": 86, "n": "Fatma AlMahmood", "t": "Tax Payer Services Department", "s": 136063 },
-    { "p": 87, "n": "Muawia", "t": "Director General Office and Internal Audit Office", "s": 135591 },
-    { "p": 88, "n": "Maryam", "t": "Tax Operation Department", "s": 135461 },
-    { "p": 89, "n": "Hashem Alhashemi", "t": "Project Management Office", "s": 134888 },
-    { "p": 90, "n": "Louai", "t": "Information Technology Sector", "s": 134870 },
-    { "p": 91, "n": "Alhashmi", "t": "Tax Operation Department", "s": 134484 },
-    { "p": 92, "n": "ELSAADANY", "t": "Tax Payer Support Office", "s": 134434 },
-    { "p": 93, "n": "Hamad alzarooni", "t": "Legal Affairs Department", "s": 133541 },
-    { "p": 94, "n": "AMNA ALBEDWAWI", "t": "Legal Affairs Department", "s": 133402 },
-    { "p": 95, "n": "futtaim almarzooqi", "t": "Tax Investigation and Anti-Evasion Department", "s": 132808 },
-    { "p": 96, "n": "Mansour.aldhaheri", "t": "Tax Enforcement Department", "s": 132031 },
-    { "p": 97, "n": "AbdulRahman Adel", "t": "Information Technology Sector", "s": 130976 },
-    { "p": 98, "n": "Hassan Alameeri", "t": "Tax Payer Support Office", "s": 130357 },
-    { "p": 99, "n": "Abdulaziz", "t": "Director General Office and Internal Audit Office", "s": 127993 },
-    { "p": 100, "n": "Aswin Reddy", "t": "Information Technology Sector", "s": 124837 },
-    { "p": 101, "n": "Ahmad AlYaqoobi", "t": "Information Technology Sector", "s": 124489 },
-    { "p": 102, "n": "Manmohandas", "t": "Tax Investigation and Anti-Evasion Department", "s": 123871 },
-    { "p": 103, "n": "Abdulla AlYafei", "t": "Human Resources Department", "s": 122589 },
-    { "p": 104, "n": "Hager Fathi", "t": "Tax Operation Department", "s": 122372 },
-    { "p": 105, "n": "Hind Alowais", "t": "Tax Investigation and Anti-Evasion Department", "s": 122198 },
-    { "p": 106, "n": "Hamad Muallemi", "t": "Tax Payer Support Office", "s": 122052 },
-    { "p": 107, "n": "Abdulla Alatiyat", "t": "Tax Audit Department", "s": 121942 },
-    { "p": 108, "n": "moza almarri", "t": "Tax Payer Services Department", "s": 120862 },
-    { "p": 109, "n": "Vinayak Budapanahalli", "t": "Information Technology Sector", "s": 120333 },
-    { "p": 110, "n": "Fatima alserkal", "t": "Tax Audit Department", "s": 120181 },
-    { "p": 111, "n": "Ibrahim Alameeri", "t": "Tax Audit Department", "s": 118415 },
-    { "p": 112, "n": "Jamal AlMarzooqi", "t": "Financial Affairs Department", "s": 117477 },
-    { "p": 113, "n": "Mohammed aqeel mohammed", "t": "Tax Operation Department", "s": 117334 },
-    { "p": 114, "n": "afra almheiri", "t": "Strategy and Future Department", "s": 116016 },
-    { "p": 115, "n": "Gharisa", "t": "Tax Policy and International Relations Department", "s": 115003 },
-    { "p": 116, "n": "Meera almuhairi", "t": "Tax Payer Services Department", "s": 114979 },
-    { "p": 117, "n": "AAA", "t": "Tax Investigation and Anti-Evasion Department", "s": 113582 },
-    { "p": 118, "n": "Nupur Jain", "t": "Tax Policy and International Relations Department", "s": 113431 },
-    { "p": 119, "n": "Houda", "t": "Tax Policy and International Relations Department", "s": 112086 },
-    { "p": 120, "n": "Hamad Al Hammadi", "t": "Tax Payer Services Department", "s": 111958 },
-    { "p": 121, "n": "Hashem Abusalem", "t": "Director General Office and Internal Audit Office", "s": 111907 },
-    { "p": 122, "n": "Shamsa Almheiri", "t": "Financial Affairs Department", "s": 111660 },
-    { "p": 123, "n": "Ayisha", "t": "Tax Audit Department", "s": 111001 },
-    { "p": 124, "n": "Raveen", "t": "Information Technology Sector", "s": 110991 },
-    { "p": 125, "n": "Michael Estephan", "t": "Tax Payer Support Office", "s": 110895 },
-    { "p": 126, "n": "Suha Qadri", "t": "Tax Audit Department", "s": 109570 },
-    { "p": 127, "n": "YUSUF ALTAMIMI", "t": "Tax Enforcement Department", "s": 108827 },
-    { "p": 128, "n": "Simon Z", "t": "Tax Operation Department", "s": 106869 },
-    { "p": 129, "n": "Thani", "t": "Tax Operation Department", "s": 106108 },
-    { "p": 130, "n": "Mohamed Roshdy", "t": "Tax Enforcement Department", "s": 105774 },
-    { "p": 131, "n": "Maryam Karam", "t": "Tax Audit Department", "s": 104765 },
-    { "p": 132, "n": "Charmaine Pelagio", "t": "Tax Policy and International Relations Department", "s": 104036 },
-    { "p": 133, "n": "Rea Mangalindan", "t": "Tax Audit Department", "s": 103535 },
-    { "p": 134, "n": "Shaikha", "t": "Financial Affairs Department", "s": 102942 },
-    { "p": 135, "n": "Jaimishkumar Khodidasbhai Patel", "t": "Tax Policy and International Relations Department", "s": 102015 },
-    { "p": 136, "n": "Wael Khadra", "t": "Information Technology Sector", "s": 101589 },
-    { "p": 137, "n": "Abdelelah", "t": "Tax Payer Support Office", "s": 101388 },
-    { "p": 138, "n": "Asaad Abdo", "t": "Project Management Office", "s": 100863 },
-    { "p": 139, "n": "Maryam", "t": "Tax Policy and International Relations Department", "s": 100629 },
-    { "p": 140, "n": "Hessah A", "t": "Tax Audit Department", "s": 100287 },
-    { "p": 141, "n": "Latifa alzarooni", "t": "Tax Operation Department", "s": 99475 },
-    { "p": 142, "n": "Badir alali", "t": "Tax Payer Services Department", "s": 99304 },
-    { "p": 143, "n": "Mohamed Yousif Alrasheed", "t": "Tax Investigation and Anti-Evasion Department", "s": 98895 },
-    { "p": 144, "n": "Salama ahli", "t": "Tax Investigation and Anti-Evasion Department", "s": 97824 },
-    { "p": 145, "n": "Allam", "t": "Financial Affairs Department", "s": 97622 },
-    { "p": 146, "n": "Fathima Shurookh", "t": "Tax Operation Department", "s": 97564 },
-    { "p": 147, "n": "Ahmad srour", "t": "Tax Operation Department", "s": 97528 },
-    { "p": 148, "n": "Ola Osama", "t": "Legal Affairs Department", "s": 96077 },
-    { "p": 149, "n": "Saood Ahli", "t": "Tax Enforcement Department", "s": 96058 },
-    { "p": 150, "n": "fajr alqaydi", "t": "Tax Payer Support Office", "s": 95079 },
-    { "p": 151, "n": "HH", "t": "Tax Payer Services Department", "s": 94088 },
-    { "p": 152, "n": "Saif", "t": "Tax Operation Department", "s": 94055 },
-    { "p": 153, "n": "Sara Alkhoori", "t": "Tax Investigation and Anti-Evasion Department", "s": 94034 },
-    { "p": 154, "n": "Karim Sallam", "t": "Project Management Office", "s": 93325 },
-    { "p": 155, "n": "Omar Al Awadhi", "t": "Strategy and Future Department", "s": 93064 },
-    { "p": 156, "n": "Yusuf", "t": "Tax Audit Department", "s": 92547 },
-    { "p": 157, "n": "Jessica Hassan", "t": "Tax Policy and International Relations Department", "s": 92342 },
-    { "p": 158, "n": "Abdou", "t": "Tax Enforcement Department", "s": 91535 },
-    { "p": 159, "n": "Mustafa Khirfan", "t": "Tax Payer Services Department", "s": 89920 },
-    { "p": 160, "n": "Rizwan", "t": "Tax Audit Department", "s": 88709 },
-    { "p": 161, "n": "Meera alghfeli", "t": "Tax Audit Department", "s": 87240 },
-    { "p": 162, "n": "Mohamed Aldhanhani", "t": "Tax Payer Support Office", "s": 86837 },
-    { "p": 163, "n": "Sara Hamza", "t": "Strategy and Future Department", "s": 86172 },
-    { "p": 164, "n": "Fatma Alsuwaidi", "t": "Tax Payer Services Department", "s": 86131 },
-    { "p": 165, "n": "Yasser Elsaigh", "t": "Tax Audit Department", "s": 83864 },
-    { "p": 166, "n": "Gaurav Srivastava", "t": "Information Technology Sector", "s": 83858 },
-    { "p": 167, "n": "Aarti Y", "t": "Tax Policy and International Relations Department", "s": 83224 },
-    { "p": 168, "n": "Mohannad Safadi", "t": "Tax Audit Department", "s": 82973 },
-    { "p": 169, "n": "Ahmad Aljoulani", "t": "Government Communication Department", "s": 82943 },
-    { "p": 170, "n": "Osama Mohamed", "t": "Information Technology Sector", "s": 82737 },
-    { "p": 171, "n": "Mohamed Alansaari", "t": "Tax Enforcement Department", "s": 82333 },
-    { "p": 172, "n": "Yousuf Aljaber", "t": "Tax Payer Services Department", "s": 82305 },
-    { "p": 173, "n": "Akram S", "t": "Tax Payer Support Office", "s": 82212 },
-    { "p": 174, "n": "Mira", "t": "Legal Affairs Department", "s": 81769 },
-    { "p": 175, "n": "Fatima Alhammadi", "t": "Tax Payer Services Department", "s": 81165 },
-    { "p": 176, "n": "Firnas Furkhan", "t": "Tax Audit Department", "s": 80320 },
-    { "p": 177, "n": "amna alloghani", "t": "Government Communication Department", "s": 80238 },
-    { "p": 178, "n": "Venkata Raju Duggirala", "t": "Information Technology Sector", "s": 79168 },
-    { "p": 179, "n": "Dishant Chadha", "t": "Tax Audit Department", "s": 78930 },
-    { "p": 180, "n": "Husam", "t": "Tax Payer Support Office", "s": 77770 },
-    { "p": 181, "n": "Albannai.7", "t": "Tax Investigation and Anti-Evasion Department", "s": 76399 },
-    { "p": 182, "n": "Saurabh Arya", "t": "Information Technology Sector", "s": 76076 },
-    { "p": 183, "n": "Fatma Hassan", "t": "Tax Payer Services Department", "s": 75965 },
-    { "p": 184, "n": "Slim Arous", "t": "Tax Payer Services Department", "s": 75879 },
-    { "p": 185, "n": "khaloud", "t": "Tax Payer Support Office", "s": 75210 },
-    { "p": 186, "n": "Rawda Alhashimi", "t": "Tax Operation Department", "s": 73875 },
-    { "p": 187, "n": "Ahmed Ali", "t": "Strategy and Future Department", "s": 73679 },
-    { "p": 188, "n": "Abdulla Alawadhi", "t": "Tax Enforcement Department", "s": 73181 },
-    { "p": 189, "n": "Fatima Tareq", "t": "Tax Audit Department", "s": 73124 },
-    { "p": 190, "n": "Abdulaziz Alhosani", "t": "Tax Operation Department", "s": 72990 },
-    { "p": 191, "n": "Ola", "t": "Legal Affairs Department", "s": 72662 },
-    { "p": 192, "n": "Sara alz", "t": "Tax Operation Department", "s": 72604 },
-    { "p": 193, "n": "Hamdan Falamarzi", "t": "Government Communication Department", "s": 72449 },
-    { "p": 194, "n": "Mohammad Nawaiseh", "t": "Legal Affairs Department", "s": 72105 },
-    { "p": 195, "n": "Muna Alhammadi", "t": "Government Communication Department", "s": 70950 },
-    { "p": 196, "n": "Mohammed Almarri", "t": "Tax Payer Support Office", "s": 69699 },
-    { "p": 197, "n": "Muna Alshamsi", "t": "Government Communication Department", "s": 69670 },
-    { "p": 198, "n": "Maryam Rajab", "t": "Tax Payer Services Department", "s": 69578 },
-    { "p": 199, "n": "Mahmood Abu Ghueleh", "t": "Tax Policy and International Relations Department", "s": 69077 },
-    { "p": 200, "n": "Khaled Al Ali", "t": "Project Management Office", "s": 67738 },
-    { "p": 201, "n": "Ahmad Doei", "t": "General Affairs Department", "s": 67387 },
-    { "p": 202, "n": "Abdulkarim Koori", "t": "Tax Payer Support Office", "s": 66753 },
-    { "p": 203, "n": "Abdelrahman Aly", "t": "Information Technology Sector", "s": 66493 },
-    { "p": 204, "n": "Abdulrahman", "t": "Information Technology Sector", "s": 65757 },
-    { "p": 205, "n": "Ahmad", "t": "Legal Affairs Department", "s": 65247 },
-    { "p": 206, "n": "Haya", "t": "Tax Payer Services Department", "s": 64203 },
-    { "p": 207, "n": "Omar Safar", "t": "Government Communication Department", "s": 63855 },
-    { "p": 208, "n": "Huda Elbashary", "t": "Project Management Office", "s": 63666 },
-    { "p": 209, "n": "Omar Alraeesi", "t": "Tax Enforcement Department", "s": 63262 },
-    { "p": 210, "n": "Marwa", "t": "Tax Payer Support Office", "s": 62916 },
-    { "p": 211, "n": "Hind k", "t": "Tax Audit Department", "s": 62910 },
-    { "p": 212, "n": "Ghassan", "t": "Project Management Office", "s": 62695 },
-    { "p": 213, "n": "Aisha Al Ali", "t": "Tax Operation Department", "s": 62380 },
-    { "p": 214, "n": "Mohammed Ahmed Al Ali", "t": "Tax Payer Support Office", "s": 61968 },
-    { "p": 215, "n": "Fahad Alhosani", "t": "Director General Office and Internal Audit Office", "s": 61500 },
-    { "p": 216, "n": "Hessa Bin Jarsh", "t": "Financial Affairs Department", "s": 61164 },
-    { "p": 217, "n": "Elyazia Khalifa", "t": "Tax Operation Department", "s": 60246 },
-    { "p": 218, "n": "Saida Kaddoumi-Osman", "t": "Tax Policy and International Relations Department", "s": 60013 },
-    { "p": 219, "n": "Hessa Kayyay", "t": "Tax Audit Department", "s": 59080 },
-    { "p": 220, "n": "Obaid jamal", "t": "Tax Operation Department", "s": 58731 },
-    { "p": 221, "n": "Lesha", "t": "Tax Policy and International Relations Department", "s": 58535 },
-    { "p": 222, "n": "Asma ✨", "t": "Government Communication Department", "s": 57790 },
-    { "p": 223, "n": "Ravikiran Madugula", "t": "Tax Audit Department", "s": 57087 },
-    { "p": 224, "n": "Saif Alfalasi", "t": "Tax Audit Department", "s": 56589 },
-    { "p": 225, "n": "Nouf", "t": "Tax Operation Department", "s": 56369 },
-    { "p": 226, "n": "Ismaeel AlHosani", "t": "Tax Enforcement Department", "s": 56117 },
-    { "p": 227, "n": "Aisha Mehta", "t": "Information Technology Sector", "s": 55315 },
-    { "p": 228, "n": "Abdullah", "t": "Tax Investigation and Anti-Evasion Department", "s": 54655 },
-    { "p": 229, "n": "Sunita Taijwani", "t": "Tax Policy and International Relations Department", "s": 54622 },
-    { "p": 230, "n": "Bahaa", "t": "Tax Operation Department", "s": 54214 },
-    { "p": 231, "n": "Mahra", "t": "Tax Operation Department", "s": 53628 },
-    { "p": 232, "n": "Hamda A", "t": "Tax Operation Department", "s": 53002 },
-    { "p": 233, "n": "Dipak Sawant", "t": "Information Technology Sector", "s": 52887 },
-    { "p": 234, "n": "Eiman", "t": "Tax Payer Support Office", "s": 52617 },
-    { "p": 235, "n": "Mahmoud Houdali", "t": "Information Technology Sector", "s": 52222 },
-    { "p": 236, "n": "Bhushan K", "t": "Information Technology Sector", "s": 52174 },
-    { "p": 237, "n": "Maithaa", "t": "Tax Investigation and Anti-Evasion Department", "s": 51929 },
-    { "p": 238, "n": "Hamda AlAli", "t": "Strategy and Future Department", "s": 51640 },
-    { "p": 239, "n": "Fatima Almajedi", "t": "Tax Operation Department", "s": 51497 },
-    { "p": 240, "n": "Rodha", "t": "Tax Audit Department", "s": 51290 },
-    { "p": 241, "n": "Oussama Zrouki", "t": "Tax Payer Support Office", "s": 51090 },
-    { "p": 242, "n": "Miad Abdulsalam", "t": "Financial Affairs Department", "s": 50367 },
-    { "p": 243, "n": "Mashael Alhammadi", "t": "Tax Payer Services Department", "s": 50308 },
-    { "p": 244, "n": "Hamda Alnuaimi", "t": "Tax Policy and International Relations Department", "s": 49942 },
-    { "p": 245, "n": "Rawda AlTahri", "t": "Tax Audit Department", "s": 49616 },
-    { "p": 246, "n": "Ayesha", "t": "Tax Policy and International Relations Department", "s": 49612 },
-    { "p": 247, "n": "Shamsa", "t": "Tax Operation Department", "s": 49469 },
-    { "p": 248, "n": "Saud", "t": "Tax Audit Department", "s": 49217 },
-    { "p": 249, "n": "Saeed Amir Muhammad", "t": "Tax Payer Support Office", "s": 47978 },
-    { "p": 250, "n": "Ahmed Alshehhi", "t": "Tax Payer Services Department", "s": 47562 },
-    { "p": 251, "n": "Mohammed Bondouk", "t": "Tax Operation Department", "s": 47457 },
-    { "p": 252, "n": "Sultan AlNuaimi", "t": "Tax Enforcement Department", "s": 46721 },
-    { "p": 253, "n": "Maithah", "t": "Director General Office and Internal Audit Office", "s": 46683 },
-    { "p": 254, "n": "Mohamed Abdulla", "t": "Tax Payer Services Department", "s": 46391 },
-    { "p": 255, "n": "Mouza", "t": "Financial Affairs Department", "s": 45610 },
-    { "p": 256, "n": "Amr nasser", "t": "General Affairs Department", "s": 45015 },
-    { "p": 257, "n": "FA", "t": "Tax Operation Department", "s": 44873 },
-    { "p": 258, "n": "Elyazia Ahli", "t": "Tax Audit Department", "s": 44738 },
-    { "p": 259, "n": "Safia", "t": "Tax Audit Department", "s": 44724 },
-    { "p": 260, "n": "3ref", "t": "Government Communication Department", "s": 44708 },
-    { "p": 261, "n": "Meera", "t": "Tax Policy and International Relations Department", "s": 44699 },
-    { "p": 262, "n": "Gulrez Alam", "t": "Information Technology Sector", "s": 44298 },
-    { "p": 263, "n": "Hanan Alaqili", "t": "Legal Affairs Department", "s": 44174 },
-    { "p": 264, "n": "Ameena salman", "t": "Tax Payer Support Office", "s": 43085 },
-    { "p": 265, "n": "Eman Al Ali", "t": "Information Technology Sector", "s": 42647 },
-    { "p": 266, "n": "Ayesha Ahmad", "t": "Tax Payer Services Department", "s": 42591 },
-    { "p": 267, "n": "Fatma", "t": "Legal Affairs Department", "s": 41736 },
-    { "p": 268, "n": "Abdulaziz Alnuaimi", "t": "Director General Office and Internal Audit Office", "s": 40753 },
-    { "p": 269, "n": "Ahmed El Zain", "t": "Legal Affairs Department", "s": 40568 },
-    { "p": 270, "n": "Mouza Aldhaheri", "t": "Legal Affairs Department", "s": 40041 },
-    { "p": 271, "n": "Noora", "t": "Information Technology Sector", "s": 40039 },
-    { "p": 272, "n": "Salem beni jaber", "t": "Tax Operation Department", "s": 40009 },
-    { "p": 273, "n": "Dana Alnaqbi", "t": "Tax Audit Department", "s": 39537 },
-    { "p": 274, "n": "Shaikha Alblooshi", "t": "Government Communication Department", "s": 39486 },
-    { "p": 275, "n": "Hessa Alserkal", "t": "Tax Payer Services Department", "s": 39391 },
-    { "p": 276, "n": "Tareq", "t": "Tax Audit Department", "s": 39047 },
-    { "p": 277, "n": "Khaleel Ghulam", "t": "Tax Payer Support Office", "s": 38941 },
-    { "p": 278, "n": "Abdullah", "t": "Tax Payer Support Office", "s": 38874 },
-    { "p": 279, "n": "Maryam Almehza", "t": "Legal Affairs Department", "s": 38179 },
-    { "p": 280, "n": "Maryam k", "t": "Legal Affairs Department", "s": 37871 },
-    { "p": 281, "n": "Hazem Sallowm", "t": "Information Technology Sector", "s": 37856 },
-    { "p": 282, "n": "Younis Gharib", "t": "Legal Affairs Department", "s": 37152 },
-    { "p": 283, "n": "Maytha AlGhfeli", "t": "Information Technology Sector", "s": 36765 },
-    { "p": 284, "n": "Khawla", "t": "Tax Payer Support Office", "s": 36664 },
-    { "p": 285, "n": "FADI", "t": "Legal Affairs Department", "s": 36652 },
-    { "p": 286, "n": "SH", "t": "Tax Enforcement Department", "s": 36455 },
-    { "p": 287, "n": "Ali", "t": "Information Technology Sector", "s": 36194 },
-    { "p": 288, "n": "Mohammed Abdulla", "t": "Tax Investigation and Anti-Evasion Department", "s": 35815 },
-    { "p": 289, "n": "Abedalhaleem", "t": "Legal Affairs Department", "s": 35732 },
-    { "p": 290, "n": "Mahra", "t": "Tax Payer Services Department", "s": 35569 },
-    { "p": 291, "n": "Abdulla Salem almahri", "t": "Legal Affairs Department", "s": 35352 },
-    { "p": 292, "n": "Ahmed Mahmoud", "t": "Legal Affairs Department", "s": 35133 },
-    { "p": 293, "n": "Suwaidi", "t": "Tax Policy and International Relations Department", "s": 35068 },
-    { "p": 294, "n": "Abdalla Shaloh", "t": "Legal Affairs Department", "s": 35038 },
-    { "p": 295, "n": "Deema", "t": "Tax Payer Services Department", "s": 34979 },
-    { "p": 296, "n": "Amr", "t": "Tax Operation Department", "s": 34864 },
-    { "p": 297, "n": "Mayed alshehhi", "t": "Tax Payer Support Office", "s": 34774 },
-    { "p": 298, "n": "Nouf alansari", "t": "Tax Payer Services Department", "s": 34447 },
-    { "p": 299, "n": "Maryam", "t": "Tax Payer Services Department", "s": 34417 },
-    { "p": 300, "n": "Dodo", "t": "Tax Payer Support Office", "s": 34311 },
-    { "p": 301, "n": "Ahmad belghuzooz", "t": "Strategy and Future Department", "s": 33902 },
-    { "p": 302, "n": "Ibrahim", "t": "Tax Operation Department", "s": 33697 },
-    { "p": 303, "n": "Iman", "t": "Tax Payer Support Office", "s": 33404 },
-    { "p": 304, "n": "Eiman Alzahmi", "t": "Tax Payer Services Department", "s": 33158 },
-    { "p": 305, "n": "hind karam", "t": "Tax Policy and International Relations Department", "s": 32753 },
-    { "p": 306, "n": "Ahmed osman", "t": "Legal Affairs Department", "s": 32564 },
-    { "p": 307, "n": "Faizan khalid", "t": "Tax Payer Support Office", "s": 32199 },
-    { "p": 308, "n": "Rahim Mahmoud", "t": "Tax Payer Support Office", "s": 32023 },
-    { "p": 309, "n": "Fatima", "t": "Tax Payer Support Office", "s": 31760 },
-    { "p": 310, "n": "Qusai", "t": "Legal Affairs Department", "s": 31571 },
-    { "p": 311, "n": "Nayeem Mohammed", "t": "Information Technology Sector", "s": 31278 },
-    { "p": 312, "n": "Hafiza Nour", "t": "Tax Payer Support Office", "s": 31268 },
-    { "p": 313, "n": "Abdulla .H", "t": "Tax Operation Department", "s": 31192 },
-    { "p": 314, "n": "Islam Ashraf", "t": "Tax Operation Department", "s": 31152 },
-    { "p": 315, "n": "Maha almheiri", "t": "Tax Audit Department", "s": 30280 },
-    { "p": 316, "n": "Ahmad Qawasmeh", "t": "Legal Affairs Department", "s": 30029 },
-    { "p": 317, "n": "Walid Abdulrahman Khamis", "t": "Tax Enforcement Department", "s": 29952 },
-    { "p": 318, "n": "Ahmad Alshalabi", "t": "Information Technology Sector", "s": 29851 },
-    { "p": 319, "n": "Jishnudas Pazhedath", "t": "Information Technology Sector", "s": 29758 },
-    { "p": 320, "n": "Saif Albastaki", "t": "Tax Payer Services Department", "s": 29420 },
-    { "p": 321, "n": "Nesma Hammam", "t": "Tax Operation Department", "s": 29410 },
-    { "p": 322, "n": "Mozah Alhashmi", "t": "Tax Operation Department", "s": 29241 },
-    { "p": 323, "n": "Nasser Abdulrahim Mohamad", "t": "Legal Affairs Department", "s": 29121 },
-    { "p": 324, "n": "Yousif", "t": "Tax Enforcement Department", "s": 28914 },
-    { "p": 325, "n": "Moaza", "t": "Tax Payer Support Office", "s": 28553 },
-    { "p": 326, "n": "Shaima", "t": "Tax Audit Department", "s": 27687 },
-    { "p": 327, "n": "Ghaya", "t": "Tax Operation Department", "s": 27610 },
-    { "p": 328, "n": "Hind AlZarooni", "t": "Tax Operation Department", "s": 27070 },
-    { "p": 329, "n": "Mariam", "t": "Director General Office and Internal Audit Office", "s": 26874 },
-    { "p": 330, "n": "Salem Abdulla", "t": "Tax Enforcement Department", "s": 26801 },
-    { "p": 331, "n": "Neil Anthony Malekar", "t": "Tax Payer Support Office", "s": 26609 },
-    { "p": 332, "n": "Rania Elbadan", "t": "Tax Payer Support Office", "s": 26563 },
-    { "p": 333, "n": "Karam 7ijjawi", "t": "Legal Affairs Department", "s": 26500 },
-    { "p": 334, "n": "Maryam", "t": "Tax Payer Support Office", "s": 26469 },
-    { "p": 335, "n": "Marwa", "t": "Tax Payer Support Office", "s": 26307 },
-    { "p": 336, "n": "Salem", "t": "Information Technology Sector", "s": 26007 },
-    { "p": 337, "n": "Rafia Ahli", "t": "Tax Audit Department", "s": 25846 },
-    { "p": 338, "n": "Salem Kokhardi", "t": "Tax Enforcement Department", "s": 25820 },
-    { "p": 339, "n": "AbdulNasser Ahli", "t": "Information Technology Sector", "s": 25500 },
-    { "p": 340, "n": "Saif Alsuwaidi", "t": "Tax Payer Support Office", "s": 25337 },
-    { "p": 341, "n": "Ayesha", "t": "Tax Audit Department", "s": 25064 },
-    { "p": 342, "n": "Soukaina Rassi", "t": "Tax Payer Support Office", "s": 24748 },
-    { "p": 343, "n": "Abdulla", "t": "Legal Affairs Department", "s": 24657 },
-    { "p": 344, "n": "Khawla", "t": "Strategy and Future Department", "s": 23929 },
-    { "p": 345, "n": "Muna Almarzooqi", "t": "Strategy and Future Department", "s": 22995 },
-    { "p": 346, "n": "Muaid saif", "t": "Tax Payer Support Office", "s": 22907 },
-    { "p": 347, "n": "Hamzeh Al Karmi", "t": "Information Technology Sector", "s": 22667 },
-    { "p": 348, "n": "Budoor AlKhaldi", "t": "Tax Operation Department", "s": 22506 },
-    { "p": 349, "n": "Abdeldjalil benmediouni", "t": "Tax Payer Support Office", "s": 22055 },
-    { "p": 350, "n": "Mojahed", "t": "Tax Payer Support Office", "s": 21378 },
-    { "p": 351, "n": "Amal amar", "t": "Tax Payer Support Office", "s": 20982 },
-    { "p": 352, "n": "Mohamed Zein", "t": "Information Technology Sector", "s": 20672 },
-    { "p": 353, "n": "Fatma", "t": "Tax Policy and International Relations Department", "s": 19862 },
-    { "p": 354, "n": "Abdulla Langawi", "t": "Tax Payer Services Department", "s": 19755 },
-    { "p": 355, "n": "Alreem Alfalasi", "t": "Strategy and Future Department", "s": 19434 },
-    { "p": 356, "n": "Meera Alali", "t": "Tax Operation Department", "s": 19388 },
-    { "p": 357, "n": "Hanan Alzadjali", "t": "Tax Payer Support Office", "s": 19096 },
-    { "p": 358, "n": "Dalia Qarawi", "t": "Tax Policy and International Relations Department", "s": 18813 },
-    { "p": 359, "n": "Raman", "t": "Tax Policy and International Relations Department", "s": 18688 },
-    { "p": 360, "n": "Sowmya Chinta", "t": "Information Technology Sector", "s": 18451 },
-    { "p": 361, "n": "Abdulla aljawder", "t": "Tax Payer Support Office", "s": 17591 },
-    { "p": 362, "n": "Nassir miran", "t": "Tax Payer Support Office", "s": 17576 },
-    { "p": 363, "n": "Nada", "t": "Human Resources Department", "s": 17325 },
-    { "p": 364, "n": "Shahin Shamsudheen", "t": "Tax Payer Support Office", "s": 17080 },
-    { "p": 365, "n": "Rashed Alghawi", "t": "Tax Payer Services Department", "s": 17027 },
-    { "p": 366, "n": "Unais", "t": "Tax Audit Department", "s": 16518 },
-    { "p": 367, "n": "Laila", "t": "Tax Payer Support Office", "s": 16094 },
-    { "p": 368, "n": "Fatma", "t": "Tax Audit Department", "s": 15746 },
-    { "p": 369, "n": "Sultan alsafar", "t": "Legal Affairs Department", "s": 15648 },
-    { "p": 370, "n": "Ali Waleed Alsyyadi", "t": "Tax Payer Support Office", "s": 15594 },
-    { "p": 371, "n": "Mostafa", "t": "Information Technology Sector", "s": 15528 },
-    { "p": 372, "n": "Reem", "t": "Tax Payer Support Office", "s": 14810 },
-    { "p": 373, "n": "Mohammad Abusalem", "t": "Tax Payer Services Department", "s": 14733 },
-    { "p": 374, "n": "Eiman", "t": "Legal Affairs Department", "s": 14453 },
-    { "p": 375, "n": "KalthamAlharthi", "t": "Director General Office and Internal Audit Office", "s": 14312 },
-    { "p": 376, "n": "Sara", "t": "Tax Policy and International Relations Department", "s": 14041 },
-    { "p": 377, "n": "Divya", "t": "Tax Audit Department", "s": 13851 },
-    { "p": 378, "n": "Mahra Alzarooni", "t": "Tax Operation Department", "s": 13068 },
-    { "p": 379, "n": "Latifa", "t": "Information Technology Sector", "s": 11541 },
-    { "p": 380, "n": "Shaikha", "t": "Tax Payer Services Department", "s": 10742 },
-    { "p": 381, "n": "A.Team leader Sheko", "t": "Tax Payer Support Office", "s": 10331 },
-    { "p": 382, "n": "Ravi", "t": "Project Management Office", "s": 9823 },
-    { "p": 383, "n": "Abdulla Qayed", "t": "Tax Payer Services Department", "s": 9735 },
-    { "p": 384, "n": "Adnan Aldhuhoori", "t": "Legal Affairs Department", "s": 9730 },
-    { "p": 385, "n": "Mohammad Murshed", "t": "Tax Operation Department", "s": 9670 },
-    { "p": 386, "n": "Alia Bin Shafia", "t": "Tax Operation Department", "s": 9394 },
-    { "p": 387, "n": "Imad", "t": "Project Management Office", "s": 9300 },
-    { "p": 388, "n": "Alaa", "t": "Tax Operation Department", "s": 9282 },
-    { "p": 389, "n": "Mohammad AlJamal", "t": "Information Technology Sector", "s": 9126 },
-    { "p": 390, "n": "Arif Abdulrahman", "t": "Tax Investigation and Anti-Evasion Department", "s": 8317 },
-    { "p": 391, "n": "Abdulrahman Alghoul", "t": "Legal Affairs Department", "s": 8273 },
-    { "p": 392, "n": "Helen Taylor", "t": "Tax Investigation and Anti-Evasion Department", "s": 8196 },
-    { "p": 393, "n": "Bhargava", "t": "Information Technology Sector", "s": 7583 },
-    { "p": 394, "n": "Rupali jain", "t": "Tax Operation Department", "s": 7137 },
-    { "p": 395, "n": "Zeinab Dalmar", "t": "Tax Payer Support Office", "s": 7017 },
-    { "p": 396, "n": "Saud Khalid", "t": "Tax Audit Department", "s": 6924 },
-    { "p": 397, "n": "Roudha Almheiri", "t": "Tax Payer Services Department", "s": 6285 },
-    { "p": 398, "n": "Esraa", "t": "Tax Audit Department", "s": 5998 },
-    { "p": 399, "n": "Zainab Salman", "t": "Information Technology Sector", "s": 5784 },
-    { "p": 400, "n": "Qutaiba Harb", "t": "Legal Affairs Department", "s": 5521 },
-    { "p": 401, "n": "Aayan Anwer", "t": "General Affairs Department", "s": 5338 },
-    { "p": 402, "n": "Zahra Aldahmani", "t": "Tax Payer Services Department", "s": 4995 },
-    { "p": 403, "n": "Mubarak Alkhajah", "t": "Tax Payer Services Department", "s": 4575 },
-    { "p": 404, "n": "Maryam", "t": "Tax Payer Support Office", "s": 4420 },
-    { "p": 405, "n": "Dana Arabi", "t": "Tax Payer Support Office", "s": 3530 },
-    { "p": 406, "n": "Salem Ali", "t": "Tax Payer Services Department", "s": 2916 },
-    { "p": 407, "n": "Maleka", "t": "Tax Payer Support Office", "s": 2736 },
-    { "p": 408, "n": "Salma", "t": "Tax Payer Support Office", "s": 1386 },
-    { "p": 409, "n": "Mira AlMahmoud", "t": "Tax Policy and International Relations Department", "s": 1176 },
-    { "p": 410, "n": "Haya Fathim", "t": "Information Technology Sector", "s": 936 },
-    { "p": 411, "n": "Manar", "t": "Tax Payer Support Office", "s": 706 },
-    { "p": 412, "n": "Fatema", "t": "Tax Payer Support Office", "s": 681 },
-    { "p": 413, "n": "Mohamed Lari", "t": "Legal Affairs Department", "s": 540 },
-    { "p": 414, "n": "Zubair Al Junaidi", "t": "Tax Payer Support Office", "s": 525 },
-    { "p": 415, "n": "Nada", "t": "Tax Operation Department", "s": 489 },
-    { "p": 416, "n": "Fnq", "t": "Tax Audit Department", "s": 0 },
-    { "p": 417, "n": "Abdulla Alkhoori", "t": "Tax Payer Support Office", "s": 0 },
-    { "p": 418, "n": "Suleiman Mesalam", "t": "Tax Audit Department", "s": 0 },
-    { "p": 419, "n": "Mohamed Ibrahim Abdul Aziz", "t": "Tax Payer Services Department", "s": 0 },
-    { "p": 420, "n": "Abdullah Abdul Aleem", "t": "Tax Payer Support Office", "s": 0 },
-    { "p": 421, "n": "", "t": "Tax Audit Department", "s": 0 },
-    { "p": 422, "n": "Amar Abass", "t": "Tax Payer Support Office", "s": 0 },
-    { "p": 423, "n": "Abdulla Albastaki", "t": "Information Technology Sector", "s": 0 },
-    { "p": 424, "n": "Ethar", "t": "Legal Affairs Department", "s": 0 },
-    { "p": 425, "n": "Fares Alhosani", "t": "Tax Enforcement Department", "s": 0 },
-    { "p": 426, "n": "Suliman", "t": "Tax Operation Department", "s": 0 },
-    { "p": 427, "n": "Kashish", "t": "Tax Audit Department", "s": 0 },
-    { "p": 428, "n": "Obay Abadi", "t": "Information Technology Sector", "s": 0 }
+    {
+      "p": 1,
+      "n": "Walaa Beltagy",
+      "t": "Tax Operation Department",
+      "s": 610297
+    },
+    {
+      "p": 2,
+      "n": "Samer Msallam",
+      "t": "Tax Operation Department",
+      "s": 603766
+    },
+    {
+      "p": 3,
+      "n": "Ahmed Alhosani",
+      "t": "Tax Enforcement Department",
+      "s": 591631
+    },
+    {
+      "p": 4,
+      "n": "Alaa Sallam",
+      "t": "Tax Operation Department",
+      "s": 465932
+    },
+    {
+      "p": 5,
+      "n": "Anil Chhablani",
+      "t": "Tax Audit Department",
+      "s": 405123
+    },
+    {
+      "p": 6,
+      "n": "Abdulla Alsuwaidi",
+      "t": "Project Management Office",
+      "s": 387019
+    },
+    {
+      "p": 7,
+      "n": "Moza Alyassi",
+      "t": "Strategy and Future Department",
+      "s": 381221
+    },
+    {
+      "p": 8,
+      "n": "Saoud",
+      "t": "Tax Audit Department",
+      "s": 372711
+    },
+    {
+      "p": 9,
+      "n": "nayef",
+      "t": "Tax Enforcement Department",
+      "s": 360214
+    },
+    {
+      "p": 10,
+      "n": "Mohamed Alfalasi",
+      "t": "Financial Affairs Department",
+      "s": 358895
+    },
+    {
+      "p": 11,
+      "n": "Ahmed Almaazmi",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 344882
+    },
+    {
+      "p": 12,
+      "n": "Moh. Temraz",
+      "t": "Tax Policy and International Relations Department",
+      "s": 344265
+    },
+    {
+      "p": 13,
+      "n": "Fatmah Alawadhi",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 326376
+    },
+    {
+      "p": 14,
+      "n": "Hamed almheiri",
+      "t": "Tax Operation Department",
+      "s": 317915
+    },
+    {
+      "p": 15,
+      "n": "Asma Alhammadi",
+      "t": "Human Resources Department",
+      "s": 305248
+    },
+    {
+      "p": 16,
+      "n": "Shareef Alblooshi",
+      "t": "Tax Payer Services Department",
+      "s": 302449
+    },
+    {
+      "p": 17,
+      "n": "Afnan",
+      "t": "Tax Audit Department",
+      "s": 301176
+    },
+    {
+      "p": 18,
+      "n": "Bedoor",
+      "t": "Tax Payer Services Department",
+      "s": 297155
+    },
+    {
+      "p": 19,
+      "n": "Humaid Al Hammadi",
+      "t": "Tax Enforcement Department",
+      "s": 293871
+    },
+    {
+      "p": 20,
+      "n": "Jasim Haddad",
+      "t": "Human Resources Department",
+      "s": 286061
+    },
+    {
+      "p": 21,
+      "n": "Adel Karmustaji",
+      "t": "Tax Enforcement Department",
+      "s": 283346
+    },
+    {
+      "p": 22,
+      "n": "Abdulla alfalasi",
+      "t": "Tax Payer Services Department",
+      "s": 280686
+    },
+    {
+      "p": 23,
+      "n": "Jeremy Sherwood",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 273902
+    },
+    {
+      "p": 24,
+      "n": "Mohammed Ahli",
+      "t": "Human Resources Department",
+      "s": 261834
+    },
+    {
+      "p": 25,
+      "n": "Ridha",
+      "t": "Tax Policy and International Relations Department",
+      "s": 256782
+    },
+    {
+      "p": 26,
+      "n": "Hassan almarzoqi",
+      "t": "Tax Enforcement Department",
+      "s": 245904
+    },
+    {
+      "p": 27,
+      "n": "Mahra",
+      "t": "Human Resources Department",
+      "s": 239665
+    },
+    {
+      "p": 28,
+      "n": "Hamdan alketbi",
+      "t": "Tax Enforcement Department",
+      "s": 233149
+    },
+    {
+      "p": 29,
+      "n": "Aysha7",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 229846
+    },
+    {
+      "p": 30,
+      "n": "Ahmad",
+      "t": "Financial Affairs Department",
+      "s": 226492
+    },
+    {
+      "p": 31,
+      "n": "Hamda",
+      "t": "Tax Payer Support Office",
+      "s": 226065
+    },
+    {
+      "p": 32,
+      "n": "Moza Alketbi",
+      "t": "Tax Payer Services Department",
+      "s": 222809
+    },
+    {
+      "p": 33,
+      "n": "Maitha",
+      "t": "Human Resources Department",
+      "s": 221570
+    },
+    {
+      "p": 34,
+      "n": "Doaa",
+      "t": "Tax Operation Department",
+      "s": 219915
+    },
+    {
+      "p": 35,
+      "n": "Aaesha Alsawaleh",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 214315
+    },
+    {
+      "p": 36,
+      "n": "Awab Adel",
+      "t": "Tax Operation Department",
+      "s": 214134
+    },
+    {
+      "p": 37,
+      "n": "Mukesh",
+      "t": "Information Technology Sector",
+      "s": 213861
+    },
+    {
+      "p": 38,
+      "n": "Sultan",
+      "t": "Tax Payer Services Department",
+      "s": 213491
+    },
+    {
+      "p": 39,
+      "n": "Sunil Kumar Sunkara",
+      "t": "Information Technology Sector",
+      "s": 212731
+    },
+    {
+      "p": 40,
+      "n": "Khadija",
+      "t": "Tax Policy and International Relations Department",
+      "s": 212261
+    },
+    {
+      "p": 41,
+      "n": "Ayesha AlFalasi",
+      "t": "Tax Audit Department",
+      "s": 210246
+    },
+    {
+      "p": 42,
+      "n": "Taiseer",
+      "t": "Tax Payer Support Office",
+      "s": 205972
+    },
+    {
+      "p": 43,
+      "n": "Christine Awad",
+      "t": "Tax Policy and International Relations Department",
+      "s": 205849
+    },
+    {
+      "p": 44,
+      "n": "Maryam Al Ali",
+      "t": "Human Resources Department",
+      "s": 204687
+    },
+    {
+      "p": 45,
+      "n": "Saood Barakat",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 203393
+    },
+    {
+      "p": 46,
+      "n": "Anil Thomas",
+      "t": "Information Technology Sector",
+      "s": 199294
+    },
+    {
+      "p": 47,
+      "n": "Hamdan Alyammahi",
+      "t": "Project Management Office",
+      "s": 198827
+    },
+    {
+      "p": 48,
+      "n": "Hamda J",
+      "t": "Tax Operation Department",
+      "s": 198417
+    },
+    {
+      "p": 49,
+      "n": "Suraj Prem",
+      "t": "Tax Policy and International Relations Department",
+      "s": 198119
+    },
+    {
+      "p": 50,
+      "n": "Ahmad Almutawa",
+      "t": "General Affairs Department",
+      "s": 197651
+    },
+    {
+      "p": 51,
+      "n": "Mohammed alawadhi",
+      "t": "Tax Audit Department",
+      "s": 195138
+    },
+    {
+      "p": 52,
+      "n": "Hazem Alaboud",
+      "t": "Human Resources Department",
+      "s": 192498
+    },
+    {
+      "p": 53,
+      "n": "Magdi Ibrahim",
+      "t": "Tax Payer Support Office",
+      "s": 192468
+    },
+    {
+      "p": 54,
+      "n": "Marwa",
+      "t": "Tax Payer Services Department",
+      "s": 192342
+    },
+    {
+      "p": 55,
+      "n": "Nicola Butt",
+      "t": "Tax Audit Department",
+      "s": 192317
+    },
+    {
+      "p": 56,
+      "n": "Saeed Ahmad",
+      "t": "Tax Payer Support Office",
+      "s": 190720
+    },
+    {
+      "p": 57,
+      "n": "Mohamed aljuneibi",
+      "t": "Tax Enforcement Department",
+      "s": 189087
+    },
+    {
+      "p": 58,
+      "n": "Janeesh Kotta Parambil",
+      "t": "Tax Audit Department",
+      "s": 184544
+    },
+    {
+      "p": 59,
+      "n": "Omar osman",
+      "t": "Tax Operation Department",
+      "s": 181443
+    },
+    {
+      "p": 60,
+      "n": "Vinesh Vagadia",
+      "t": "Tax Policy and International Relations Department",
+      "s": 180963
+    },
+    {
+      "p": 61,
+      "n": "Ibrahim Al Ali",
+      "t": "Project Management Office",
+      "s": 180177
+    },
+    {
+      "p": 62,
+      "n": "Abdulla Bin Haider",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 179246
+    },
+    {
+      "p": 63,
+      "n": "A.Ahli",
+      "t": "Legal Affairs Department",
+      "s": 179055
+    },
+    {
+      "p": 64,
+      "n": "Reemm",
+      "t": "General Affairs Department",
+      "s": 178978
+    },
+    {
+      "p": 65,
+      "n": "Khalifa",
+      "t": "Tax Enforcement Department",
+      "s": 176935
+    },
+    {
+      "p": 66,
+      "n": "Abdulla Alatiyat",
+      "t": "Tax Audit Department",
+      "s": 175867
+    },
+    {
+      "p": 67,
+      "n": "Jamal Alsuwaidi",
+      "t": "Strategy and Future Department",
+      "s": 174766
+    },
+    {
+      "p": 68,
+      "n": "Sarmad Nasir",
+      "t": "Project Management Office",
+      "s": 172150
+    },
+    {
+      "p": 69,
+      "n": "Shahad",
+      "t": "General Affairs Department",
+      "s": 172134
+    },
+    {
+      "p": 70,
+      "n": "Abdulrahman Alalili",
+      "t": "Project Management Office",
+      "s": 167672
+    },
+    {
+      "p": 71,
+      "n": "ELSAADANY",
+      "t": "Tax Payer Support Office",
+      "s": 167345
+    },
+    {
+      "p": 72,
+      "n": "Eisa Alhammadi",
+      "t": "Tax Enforcement Department",
+      "s": 167334
+    },
+    {
+      "p": 73,
+      "n": "Shaikha Alketbi",
+      "t": "Human Resources Department",
+      "s": 163294
+    },
+    {
+      "p": 74,
+      "n": "Sara Hussain Ahmad",
+      "t": "Project Management Office",
+      "s": 162706
+    },
+    {
+      "p": 75,
+      "n": "Reem Alnuaimi",
+      "t": "Tax Payer Services Department",
+      "s": 162328
+    },
+    {
+      "p": 76,
+      "n": "Abdulaziz",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 161503
+    },
+    {
+      "p": 77,
+      "n": "Fatma",
+      "t": "Information Technology Sector",
+      "s": 160187
+    },
+    {
+      "p": 78,
+      "n": "Abdulla Alkindi",
+      "t": "General Affairs Department",
+      "s": 159881
+    },
+    {
+      "p": 79,
+      "n": "Fatma Almheiri",
+      "t": "Information Technology Sector",
+      "s": 159116
+    },
+    {
+      "p": 80,
+      "n": "Eissa alraeesi",
+      "t": "Tax Enforcement Department",
+      "s": 157943
+    },
+    {
+      "p": 81,
+      "n": "Shaikha",
+      "t": "Information Technology Sector",
+      "s": 157594
+    },
+    {
+      "p": 82,
+      "n": "Challenger",
+      "t": "Project Management Office",
+      "s": 157091
+    },
+    {
+      "p": 83,
+      "n": "Budoor",
+      "t": "Tax Payer Support Office",
+      "s": 156474
+    },
+    {
+      "p": 84,
+      "n": "Mohamed alaskar",
+      "t": "General Affairs Department",
+      "s": 154860
+    },
+    {
+      "p": 85,
+      "n": "Majd Hamdan",
+      "t": "Tax Policy and International Relations Department",
+      "s": 149213
+    },
+    {
+      "p": 86,
+      "n": "Mohammed Mokhtari",
+      "t": "Legal Affairs Department",
+      "s": 148463
+    },
+    {
+      "p": 87,
+      "n": "futtaim almarzooqi",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 146272
+    },
+    {
+      "p": 88,
+      "n": "Maryam",
+      "t": "Tax Operation Department",
+      "s": 145945
+    },
+    {
+      "p": 89,
+      "n": "Muawia",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 145192
+    },
+    {
+      "p": 90,
+      "n": "AMNA ALBEDWAWI",
+      "t": "Legal Affairs Department",
+      "s": 145116
+    },
+    {
+      "p": 91,
+      "n": "Fatma AlMahmood",
+      "t": "Tax Payer Services Department",
+      "s": 144490
+    },
+    {
+      "p": 92,
+      "n": "Hashem Abusalem",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 144396
+    },
+    {
+      "p": 93,
+      "n": "Sultan",
+      "t": "Financial Affairs Department",
+      "s": 144379
+    },
+    {
+      "p": 94,
+      "n": "AHMED ALSHARJI",
+      "t": "General Affairs Department",
+      "s": 143819
+    },
+    {
+      "p": 95,
+      "n": "Louai",
+      "t": "Information Technology Sector",
+      "s": 143069
+    },
+    {
+      "p": 96,
+      "n": "moza almarri",
+      "t": "Tax Payer Services Department",
+      "s": 137555
+    },
+    {
+      "p": 97,
+      "n": "Gharisa",
+      "t": "Tax Policy and International Relations Department",
+      "s": 137535
+    },
+    {
+      "p": 98,
+      "n": "Aswin Reddy",
+      "t": "Information Technology Sector",
+      "s": 136749
+    },
+    {
+      "p": 99,
+      "n": "Mansour.aldhaheri",
+      "t": "Tax Enforcement Department",
+      "s": 136567
+    },
+    {
+      "p": 100,
+      "n": "Hassan Alameeri",
+      "t": "Tax Payer Support Office",
+      "s": 136111
+    },
+    {
+      "p": 101,
+      "n": "Vinayak Budapanahalli",
+      "t": "Information Technology Sector",
+      "s": 135433
+    },
+    {
+      "p": 102,
+      "n": "Hashem Alhashemi",
+      "t": "Project Management Office",
+      "s": 134888
+    },
+    {
+      "p": 103,
+      "n": "Hamad alzarooni",
+      "t": "Legal Affairs Department",
+      "s": 134488
+    },
+    {
+      "p": 104,
+      "n": "Alhashmi",
+      "t": "Tax Operation Department",
+      "s": 134484
+    },
+    {
+      "p": 105,
+      "n": "AbdulRahman Adel",
+      "t": "Information Technology Sector",
+      "s": 133822
+    },
+    {
+      "p": 106,
+      "n": "Ahmad AlYaqoobi",
+      "t": "Information Technology Sector",
+      "s": 131511
+    },
+    {
+      "p": 107,
+      "n": "Hager Fathi",
+      "t": "Tax Operation Department",
+      "s": 129588
+    },
+    {
+      "p": 108,
+      "n": "Ibrahim Alameeri",
+      "t": "Tax Audit Department",
+      "s": 127278
+    },
+    {
+      "p": 109,
+      "n": "Hind Alowais",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 126782
+    },
+    {
+      "p": 110,
+      "n": "Abdulla AlYafei",
+      "t": "Human Resources Department",
+      "s": 126588
+    },
+    {
+      "p": 111,
+      "n": "Manmohandas",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 123871
+    },
+    {
+      "p": 112,
+      "n": "AAA",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 122144
+    },
+    {
+      "p": 113,
+      "n": "Hamad Muallemi",
+      "t": "Tax Payer Support Office",
+      "s": 122052
+    },
+    {
+      "p": 114,
+      "n": "Suha Qadri",
+      "t": "Tax Audit Department",
+      "s": 121503
+    },
+    {
+      "p": 115,
+      "n": "Nupur Jain",
+      "t": "Tax Policy and International Relations Department",
+      "s": 121384
+    },
+    {
+      "p": 116,
+      "n": "Jamal AlMarzooqi",
+      "t": "Financial Affairs Department",
+      "s": 121065
+    },
+    {
+      "p": 117,
+      "n": "Fatima alserkal",
+      "t": "Tax Audit Department",
+      "s": 120181
+    },
+    {
+      "p": 118,
+      "n": "Wael Khadra",
+      "t": "Information Technology Sector",
+      "s": 119877
+    },
+    {
+      "p": 119,
+      "n": "Rea Mangalindan",
+      "t": "Tax Audit Department",
+      "s": 119327
+    },
+    {
+      "p": 120,
+      "n": "YUSUF ALTAMIMI",
+      "t": "Tax Enforcement Department",
+      "s": 118826
+    },
+    {
+      "p": 121,
+      "n": "Shamsa Almheiri",
+      "t": "Financial Affairs Department",
+      "s": 118269
+    },
+    {
+      "p": 122,
+      "n": "Raveen",
+      "t": "Information Technology Sector",
+      "s": 117513
+    },
+    {
+      "p": 123,
+      "n": "Mohammed aqeel mohammed",
+      "t": "Tax Operation Department",
+      "s": 117334
+    },
+    {
+      "p": 124,
+      "n": "afra almheiri",
+      "t": "Strategy and Future Department",
+      "s": 116016
+    },
+    {
+      "p": 125,
+      "n": "Ahmad Doei",
+      "t": "General Affairs Department",
+      "s": 116002
+    },
+    {
+      "p": 126,
+      "n": "Aarti Y",
+      "t": "Tax Policy and International Relations Department",
+      "s": 115295
+    },
+    {
+      "p": 127,
+      "n": "Meera almuhairi",
+      "t": "Tax Payer Services Department",
+      "s": 114979
+    },
+    {
+      "p": 128,
+      "n": "Slim Arous",
+      "t": "Tax Payer Services Department",
+      "s": 114434
+    },
+    {
+      "p": 129,
+      "n": "Houda",
+      "t": "Tax Policy and International Relations Department",
+      "s": 112336
+    },
+    {
+      "p": 130,
+      "n": "Saood Ahli",
+      "t": "Tax Enforcement Department",
+      "s": 112188
+    },
+    {
+      "p": 131,
+      "n": "Hamad Al Hammadi",
+      "t": "Tax Payer Services Department",
+      "s": 111958
+    },
+    {
+      "p": 132,
+      "n": "Jaimishkumar Khodidasbhai Patel",
+      "t": "Tax Policy and International Relations Department",
+      "s": 111341
+    },
+    {
+      "p": 133,
+      "n": "Ayisha",
+      "t": "Tax Audit Department",
+      "s": 111001
+    },
+    {
+      "p": 134,
+      "n": "Michael Estephan",
+      "t": "Tax Payer Support Office",
+      "s": 110895
+    },
+    {
+      "p": 135,
+      "n": "Hessah A",
+      "t": "Tax Audit Department",
+      "s": 110449
+    },
+    {
+      "p": 136,
+      "n": "Maryam Karam",
+      "t": "Tax Audit Department",
+      "s": 110442
+    },
+    {
+      "p": 137,
+      "n": "Ghassan",
+      "t": "Project Management Office",
+      "s": 109631
+    },
+    {
+      "p": 138,
+      "n": "Latifa alzarooni",
+      "t": "Tax Operation Department",
+      "s": 108437
+    },
+    {
+      "p": 139,
+      "n": "Shaikha",
+      "t": "Financial Affairs Department",
+      "s": 107147
+    },
+    {
+      "p": 140,
+      "n": "Simon Z",
+      "t": "Tax Operation Department",
+      "s": 106869
+    },
+    {
+      "p": 141,
+      "n": "Sara Alkhoori",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 106613
+    },
+    {
+      "p": 142,
+      "n": "Thani",
+      "t": "Tax Operation Department",
+      "s": 106108
+    },
+    {
+      "p": 143,
+      "n": "Mohamed Roshdy",
+      "t": "Tax Enforcement Department",
+      "s": 105774
+    },
+    {
+      "p": 144,
+      "n": "Charmaine Pelagio",
+      "t": "Tax Policy and International Relations Department",
+      "s": 104036
+    },
+    {
+      "p": 145,
+      "n": "Mustafa Khirfan",
+      "t": "Tax Payer Services Department",
+      "s": 103498
+    },
+    {
+      "p": 146,
+      "n": "fajr alqaydi",
+      "t": "Tax Payer Support Office",
+      "s": 102676
+    },
+    {
+      "p": 147,
+      "n": "Abdelelah",
+      "t": "Tax Payer Support Office",
+      "s": 101388
+    },
+    {
+      "p": 148,
+      "n": "Asaad Abdo",
+      "t": "Project Management Office",
+      "s": 100863
+    },
+    {
+      "p": 149,
+      "n": "Maryam",
+      "t": "Tax Policy and International Relations Department",
+      "s": 100629
+    },
+    {
+      "p": 150,
+      "n": "HH",
+      "t": "Tax Payer Services Department",
+      "s": 100252
+    },
+    {
+      "p": 151,
+      "n": "Ola Osama",
+      "t": "Legal Affairs Department",
+      "s": 100128
+    },
+    {
+      "p": 152,
+      "n": "Badir alali",
+      "t": "Tax Payer Services Department",
+      "s": 99304
+    },
+    {
+      "p": 153,
+      "n": "Abdulrahman",
+      "t": "Information Technology Sector",
+      "s": 98932
+    },
+    {
+      "p": 154,
+      "n": "Mohamed Yousif Alrasheed",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 98895
+    },
+    {
+      "p": 155,
+      "n": "Salama ahli",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 97824
+    },
+    {
+      "p": 156,
+      "n": "Allam",
+      "t": "Financial Affairs Department",
+      "s": 97622
+    },
+    {
+      "p": 157,
+      "n": "Fathima Shurookh",
+      "t": "Tax Operation Department",
+      "s": 97564
+    },
+    {
+      "p": 158,
+      "n": "Ahmad srour",
+      "t": "Tax Operation Department",
+      "s": 97528
+    },
+    {
+      "p": 159,
+      "n": "Fatima Almajedi",
+      "t": "Tax Operation Department",
+      "s": 97360
+    },
+    {
+      "p": 160,
+      "n": "Sara Hamza",
+      "t": "Strategy and Future Department",
+      "s": 94714
+    },
+    {
+      "p": 161,
+      "n": "Saif",
+      "t": "Tax Operation Department",
+      "s": 94055
+    },
+    {
+      "p": 162,
+      "n": "Venkata Raju Duggirala",
+      "t": "Information Technology Sector",
+      "s": 93914
+    },
+    {
+      "p": 163,
+      "n": "Abdou",
+      "t": "Tax Enforcement Department",
+      "s": 93616
+    },
+    {
+      "p": 164,
+      "n": "Karim Sallam",
+      "t": "Project Management Office",
+      "s": 93325
+    },
+    {
+      "p": 165,
+      "n": "Omar Al Awadhi",
+      "t": "Strategy and Future Department",
+      "s": 93064
+    },
+    {
+      "p": 166,
+      "n": "Yusuf",
+      "t": "Tax Audit Department",
+      "s": 92547
+    },
+    {
+      "p": 167,
+      "n": "Jessica Hassan",
+      "t": "Tax Policy and International Relations Department",
+      "s": 92342
+    },
+    {
+      "p": 168,
+      "n": "Mohamed Aldhanhani",
+      "t": "Tax Payer Support Office",
+      "s": 91990
+    },
+    {
+      "p": 169,
+      "n": "Firnas Furkhan",
+      "t": "Tax Audit Department",
+      "s": 91668
+    },
+    {
+      "p": 170,
+      "n": "Mohamed Alansaari",
+      "t": "Tax Enforcement Department",
+      "s": 90347
+    },
+    {
+      "p": 171,
+      "n": "Albannai.7",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 90206
+    },
+    {
+      "p": 172,
+      "n": "Mahmood Abu Ghueleh",
+      "t": "Tax Policy and International Relations Department",
+      "s": 89782
+    },
+    {
+      "p": 173,
+      "n": "Rizwan",
+      "t": "Tax Audit Department",
+      "s": 88709
+    },
+    {
+      "p": 174,
+      "n": "Ahmad Aljoulani",
+      "t": "Government Communication Department",
+      "s": 88628
+    },
+    {
+      "p": 175,
+      "n": "Mohammad Nawaiseh",
+      "t": "Legal Affairs Department",
+      "s": 87797
+    },
+    {
+      "p": 176,
+      "n": "Meera alghfeli",
+      "t": "Tax Audit Department",
+      "s": 87240
+    },
+    {
+      "p": 177,
+      "n": "Abdulla Alawadhi",
+      "t": "Tax Enforcement Department",
+      "s": 86695
+    },
+    {
+      "p": 178,
+      "n": "Abdulaziz Alhosani",
+      "t": "Tax Operation Department",
+      "s": 86632
+    },
+    {
+      "p": 179,
+      "n": "Fatma Alsuwaidi",
+      "t": "Tax Payer Services Department",
+      "s": 86131
+    },
+    {
+      "p": 180,
+      "n": "Fatima Alhammadi",
+      "t": "Tax Payer Services Department",
+      "s": 85694
+    },
+    {
+      "p": 181,
+      "n": "Marwa",
+      "t": "Tax Payer Support Office",
+      "s": 85400
+    },
+    {
+      "p": 182,
+      "n": "Saurabh Arya",
+      "t": "Information Technology Sector",
+      "s": 84994
+    },
+    {
+      "p": 183,
+      "n": "Husam",
+      "t": "Tax Payer Support Office",
+      "s": 84521
+    },
+    {
+      "p": 184,
+      "n": "Gaurav Srivastava",
+      "t": "Information Technology Sector",
+      "s": 84366
+    },
+    {
+      "p": 185,
+      "n": "Yasser Elsaigh",
+      "t": "Tax Audit Department",
+      "s": 83864
+    },
+    {
+      "p": 186,
+      "n": "Mohannad Safadi",
+      "t": "Tax Audit Department",
+      "s": 82973
+    },
+    {
+      "p": 187,
+      "n": "Osama Mohamed",
+      "t": "Information Technology Sector",
+      "s": 82737
+    },
+    {
+      "p": 188,
+      "n": "Yousuf Aljaber",
+      "t": "Tax Payer Services Department",
+      "s": 82305
+    },
+    {
+      "p": 189,
+      "n": "Akram S",
+      "t": "Tax Payer Support Office",
+      "s": 82212
+    },
+    {
+      "p": 190,
+      "n": "Ola",
+      "t": "Legal Affairs Department",
+      "s": 81884
+    },
+    {
+      "p": 191,
+      "n": "Mira",
+      "t": "Legal Affairs Department",
+      "s": 81769
+    },
+    {
+      "p": 192,
+      "n": "khaloud",
+      "t": "Tax Payer Support Office",
+      "s": 80837
+    },
+    {
+      "p": 193,
+      "n": "amna alloghani",
+      "t": "Government Communication Department",
+      "s": 80301
+    },
+    {
+      "p": 194,
+      "n": "Dishant Chadha",
+      "t": "Tax Audit Department",
+      "s": 78930
+    },
+    {
+      "p": 195,
+      "n": "Maithaa",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 76630
+    },
+    {
+      "p": 196,
+      "n": "Fatma Hassan",
+      "t": "Tax Payer Services Department",
+      "s": 75965
+    },
+    {
+      "p": 197,
+      "n": "Hind k",
+      "t": "Tax Audit Department",
+      "s": 74772
+    },
+    {
+      "p": 198,
+      "n": "Fatima Tareq",
+      "t": "Tax Audit Department",
+      "s": 74677
+    },
+    {
+      "p": 199,
+      "n": "Rawda Alhashimi",
+      "t": "Tax Operation Department",
+      "s": 73875
+    },
+    {
+      "p": 200,
+      "n": "Ahmed Ali",
+      "t": "Strategy and Future Department",
+      "s": 73679
+    },
+    {
+      "p": 201,
+      "n": "Sara alz",
+      "t": "Tax Operation Department",
+      "s": 72604
+    },
+    {
+      "p": 202,
+      "n": "Hamdan Falamarzi",
+      "t": "Government Communication Department",
+      "s": 72449
+    },
+    {
+      "p": 203,
+      "n": "Muna Alhammadi",
+      "t": "Government Communication Department",
+      "s": 70950
+    },
+    {
+      "p": 204,
+      "n": "Abdulkarim Koori",
+      "t": "Tax Payer Support Office",
+      "s": 70541
+    },
+    {
+      "p": 205,
+      "n": "Muna Alshamsi",
+      "t": "Government Communication Department",
+      "s": 69837
+    },
+    {
+      "p": 206,
+      "n": "Mohammed Almarri",
+      "t": "Tax Payer Support Office",
+      "s": 69699
+    },
+    {
+      "p": 207,
+      "n": "Saif Alfalasi",
+      "t": "Tax Audit Department",
+      "s": 69588
+    },
+    {
+      "p": 208,
+      "n": "Maryam Rajab",
+      "t": "Tax Payer Services Department",
+      "s": 69578
+    },
+    {
+      "p": 209,
+      "n": "Mashael Alhammadi",
+      "t": "Tax Payer Services Department",
+      "s": 67777
+    },
+    {
+      "p": 210,
+      "n": "Khaled Al Ali",
+      "t": "Project Management Office",
+      "s": 67738
+    },
+    {
+      "p": 211,
+      "n": "Omar Alraeesi",
+      "t": "Tax Enforcement Department",
+      "s": 66950
+    },
+    {
+      "p": 212,
+      "n": "Aisha Al Ali",
+      "t": "Tax Operation Department",
+      "s": 66780
+    },
+    {
+      "p": 213,
+      "n": "Abdelrahman Aly",
+      "t": "Information Technology Sector",
+      "s": 66493
+    },
+    {
+      "p": 214,
+      "n": "Ismaeel AlHosani",
+      "t": "Tax Enforcement Department",
+      "s": 66295
+    },
+    {
+      "p": 215,
+      "n": "Mohammed Ahmed Al Ali",
+      "t": "Tax Payer Support Office",
+      "s": 65869
+    },
+    {
+      "p": 216,
+      "n": "Ahmad",
+      "t": "Legal Affairs Department",
+      "s": 65247
+    },
+    {
+      "p": 217,
+      "n": "Haya",
+      "t": "Tax Payer Services Department",
+      "s": 64203
+    },
+    {
+      "p": 218,
+      "n": "Omar Safar",
+      "t": "Government Communication Department",
+      "s": 63855
+    },
+    {
+      "p": 219,
+      "n": "Huda Elbashary",
+      "t": "Project Management Office",
+      "s": 63666
+    },
+    {
+      "p": 220,
+      "n": "Ayesha",
+      "t": "Tax Policy and International Relations Department",
+      "s": 63259
+    },
+    {
+      "p": 221,
+      "n": "hind karam",
+      "t": "Tax Policy and International Relations Department",
+      "s": 62288
+    },
+    {
+      "p": 222,
+      "n": "Fahad Alhosani",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 61500
+    },
+    {
+      "p": 223,
+      "n": "Hessa Bin Jarsh",
+      "t": "Financial Affairs Department",
+      "s": 61164
+    },
+    {
+      "p": 224,
+      "n": "Elyazia Khalifa",
+      "t": "Tax Operation Department",
+      "s": 60246
+    },
+    {
+      "p": 225,
+      "n": "Saida Kaddoumi-Osman",
+      "t": "Tax Policy and International Relations Department",
+      "s": 60013
+    },
+    {
+      "p": 226,
+      "n": "Hessa Kayyay",
+      "t": "Tax Audit Department",
+      "s": 59080
+    },
+    {
+      "p": 227,
+      "n": "Ravikiran Madugula",
+      "t": "Tax Audit Department",
+      "s": 58900
+    },
+    {
+      "p": 228,
+      "n": "Obaid jamal",
+      "t": "Tax Operation Department",
+      "s": 58731
+    },
+    {
+      "p": 229,
+      "n": "Lesha",
+      "t": "Tax Policy and International Relations Department",
+      "s": 58535
+    },
+    {
+      "p": 230,
+      "n": "Asma ✨",
+      "t": "Government Communication Department",
+      "s": 57790
+    },
+    {
+      "p": 231,
+      "n": "Mahra",
+      "t": "Tax Operation Department",
+      "s": 57672
+    },
+    {
+      "p": 232,
+      "n": "Noora",
+      "t": "Information Technology Sector",
+      "s": 56742
+    },
+    {
+      "p": 233,
+      "n": "Nouf",
+      "t": "Tax Operation Department",
+      "s": 56369
+    },
+    {
+      "p": 234,
+      "n": "Mahmoud Houdali",
+      "t": "Information Technology Sector",
+      "s": 56174
+    },
+    {
+      "p": 235,
+      "n": "Aisha Mehta",
+      "t": "Information Technology Sector",
+      "s": 55315
+    },
+    {
+      "p": 236,
+      "n": "Abdullah",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 54655
+    },
+    {
+      "p": 237,
+      "n": "Sunita Taijwani",
+      "t": "Tax Policy and International Relations Department",
+      "s": 54622
+    },
+    {
+      "p": 238,
+      "n": "Bahaa",
+      "t": "Tax Operation Department",
+      "s": 54214
+    },
+    {
+      "p": 239,
+      "n": "Hamda A",
+      "t": "Tax Operation Department",
+      "s": 53002
+    },
+    {
+      "p": 240,
+      "n": "Dipak Sawant",
+      "t": "Information Technology Sector",
+      "s": 52887
+    },
+    {
+      "p": 241,
+      "n": "Eiman",
+      "t": "Tax Payer Support Office",
+      "s": 52617
+    },
+    {
+      "p": 242,
+      "n": "Bhushan K",
+      "t": "Information Technology Sector",
+      "s": 52174
+    },
+    {
+      "p": 243,
+      "n": "Hamda AlAli",
+      "t": "Strategy and Future Department",
+      "s": 51640
+    },
+    {
+      "p": 244,
+      "n": "Rawda AlTahri",
+      "t": "Tax Audit Department",
+      "s": 51292
+    },
+    {
+      "p": 245,
+      "n": "Rodha",
+      "t": "Tax Audit Department",
+      "s": 51290
+    },
+    {
+      "p": 246,
+      "n": "Oussama Zrouki",
+      "t": "Tax Payer Support Office",
+      "s": 51090
+    },
+    {
+      "p": 247,
+      "n": "Elyazia Ahli",
+      "t": "Tax Audit Department",
+      "s": 50513
+    },
+    {
+      "p": 248,
+      "n": "Imad",
+      "t": "Project Management Office",
+      "s": 50424
+    },
+    {
+      "p": 249,
+      "n": "Miad Abdulsalam",
+      "t": "Financial Affairs Department",
+      "s": 50367
+    },
+    {
+      "p": 250,
+      "n": "Hamda Alnuaimi",
+      "t": "Tax Policy and International Relations Department",
+      "s": 49942
+    },
+    {
+      "p": 251,
+      "n": "Shamsa",
+      "t": "Tax Operation Department",
+      "s": 49469
+    },
+    {
+      "p": 252,
+      "n": "Saud",
+      "t": "Tax Audit Department",
+      "s": 49217
+    },
+    {
+      "p": 253,
+      "n": "Saeed Amir Muhammad",
+      "t": "Tax Payer Support Office",
+      "s": 47978
+    },
+    {
+      "p": 254,
+      "n": "Mouza Aldhaheri",
+      "t": "Legal Affairs Department",
+      "s": 47878
+    },
+    {
+      "p": 255,
+      "n": "Ahmed Alshehhi",
+      "t": "Tax Payer Services Department",
+      "s": 47562
+    },
+    {
+      "p": 256,
+      "n": "Mohammed Bondouk",
+      "t": "Tax Operation Department",
+      "s": 47457
+    },
+    {
+      "p": 257,
+      "n": "Sultan AlNuaimi",
+      "t": "Tax Enforcement Department",
+      "s": 46721
+    },
+    {
+      "p": 258,
+      "n": "Maithah",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 46683
+    },
+    {
+      "p": 259,
+      "n": "Mohamed Abdulla",
+      "t": "Tax Payer Services Department",
+      "s": 46391
+    },
+    {
+      "p": 260,
+      "n": "Eman Al Ali",
+      "t": "Information Technology Sector",
+      "s": 45880
+    },
+    {
+      "p": 261,
+      "n": "Mouza",
+      "t": "Financial Affairs Department",
+      "s": 45610
+    },
+    {
+      "p": 262,
+      "n": "Amr nasser",
+      "t": "General Affairs Department",
+      "s": 45015
+    },
+    {
+      "p": 263,
+      "n": "FA",
+      "t": "Tax Operation Department",
+      "s": 44873
+    },
+    {
+      "p": 264,
+      "n": "Safia",
+      "t": "Tax Audit Department",
+      "s": 44724
+    },
+    {
+      "p": 265,
+      "n": "3ref",
+      "t": "Government Communication Department",
+      "s": 44708
+    },
+    {
+      "p": 266,
+      "n": "Meera",
+      "t": "Tax Policy and International Relations Department",
+      "s": 44699
+    },
+    {
+      "p": 267,
+      "n": "Gulrez Alam",
+      "t": "Information Technology Sector",
+      "s": 44298
+    },
+    {
+      "p": 268,
+      "n": "Hanan Alaqili",
+      "t": "Legal Affairs Department",
+      "s": 44174
+    },
+    {
+      "p": 269,
+      "n": "Hamzeh Al Karmi",
+      "t": "Information Technology Sector",
+      "s": 43524
+    },
+    {
+      "p": 270,
+      "n": "Ameena salman",
+      "t": "Tax Payer Support Office",
+      "s": 43085
+    },
+    {
+      "p": 271,
+      "n": "Ayesha Ahmad",
+      "t": "Tax Payer Services Department",
+      "s": 42591
+    },
+    {
+      "p": 272,
+      "n": "Fatma",
+      "t": "Legal Affairs Department",
+      "s": 41736
+    },
+    {
+      "p": 273,
+      "n": "Ahmad Qawasmeh",
+      "t": "Legal Affairs Department",
+      "s": 41278
+    },
+    {
+      "p": 274,
+      "n": "Adnan Aldhuhoori",
+      "t": "Legal Affairs Department",
+      "s": 41089
+    },
+    {
+      "p": 275,
+      "n": "Abdulaziz Alnuaimi",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 40753
+    },
+    {
+      "p": 276,
+      "n": "Ahmed El Zain",
+      "t": "Legal Affairs Department",
+      "s": 40568
+    },
+    {
+      "p": 277,
+      "n": "Salem beni jaber",
+      "t": "Tax Operation Department",
+      "s": 40009
+    },
+    {
+      "p": 278,
+      "n": "Dana Alnaqbi",
+      "t": "Tax Audit Department",
+      "s": 39537
+    },
+    {
+      "p": 279,
+      "n": "Shaikha Alblooshi",
+      "t": "Government Communication Department",
+      "s": 39486
+    },
+    {
+      "p": 280,
+      "n": "Hessa Alserkal",
+      "t": "Tax Payer Services Department",
+      "s": 39391
+    },
+    {
+      "p": 281,
+      "n": "Tareq",
+      "t": "Tax Audit Department",
+      "s": 39047
+    },
+    {
+      "p": 282,
+      "n": "Khaleel Ghulam",
+      "t": "Tax Payer Support Office",
+      "s": 38941
+    },
+    {
+      "p": 283,
+      "n": "Ahmed Mahmoud",
+      "t": "Legal Affairs Department",
+      "s": 38932
+    },
+    {
+      "p": 284,
+      "n": "Abdullah",
+      "t": "Tax Payer Support Office",
+      "s": 38874
+    },
+    {
+      "p": 285,
+      "n": "Maryam Almehza",
+      "t": "Legal Affairs Department",
+      "s": 38270
+    },
+    {
+      "p": 286,
+      "n": "Maryam k",
+      "t": "Legal Affairs Department",
+      "s": 37871
+    },
+    {
+      "p": 287,
+      "n": "Hazem Sallowm",
+      "t": "Information Technology Sector",
+      "s": 37856
+    },
+    {
+      "p": 288,
+      "n": "Islam Ashraf",
+      "t": "Tax Operation Department",
+      "s": 37185
+    },
+    {
+      "p": 289,
+      "n": "Younis Gharib",
+      "t": "Legal Affairs Department",
+      "s": 37152
+    },
+    {
+      "p": 290,
+      "n": "Maytha AlGhfeli",
+      "t": "Information Technology Sector",
+      "s": 36765
+    },
+    {
+      "p": 291,
+      "n": "Khawla",
+      "t": "Tax Payer Support Office",
+      "s": 36664
+    },
+    {
+      "p": 292,
+      "n": "FADI",
+      "t": "Legal Affairs Department",
+      "s": 36652
+    },
+    {
+      "p": 293,
+      "n": "SH",
+      "t": "Tax Enforcement Department",
+      "s": 36455
+    },
+    {
+      "p": 294,
+      "n": "Ahmed osman",
+      "t": "Legal Affairs Department",
+      "s": 36287
+    },
+    {
+      "p": 295,
+      "n": "Ali",
+      "t": "Information Technology Sector",
+      "s": 36194
+    },
+    {
+      "p": 296,
+      "n": "Mohammed Abdulla",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 35815
+    },
+    {
+      "p": 297,
+      "n": "Abedalhaleem",
+      "t": "Legal Affairs Department",
+      "s": 35732
+    },
+    {
+      "p": 298,
+      "n": "Mahra",
+      "t": "Tax Payer Services Department",
+      "s": 35569
+    },
+    {
+      "p": 299,
+      "n": "Abdulla Salem almahri",
+      "t": "Legal Affairs Department",
+      "s": 35352
+    },
+    {
+      "p": 300,
+      "n": "Unais",
+      "t": "Tax Audit Department",
+      "s": 35194
+    },
+    {
+      "p": 301,
+      "n": "Suwaidi",
+      "t": "Tax Policy and International Relations Department",
+      "s": 35068
+    },
+    {
+      "p": 302,
+      "n": "Abdalla Shaloh",
+      "t": "Legal Affairs Department",
+      "s": 35038
+    },
+    {
+      "p": 303,
+      "n": "Deema",
+      "t": "Tax Payer Services Department",
+      "s": 34979
+    },
+    {
+      "p": 304,
+      "n": "Amr",
+      "t": "Tax Operation Department",
+      "s": 34864
+    },
+    {
+      "p": 305,
+      "n": "Mayed alshehhi",
+      "t": "Tax Payer Support Office",
+      "s": 34774
+    },
+    {
+      "p": 306,
+      "n": "Nouf alansari",
+      "t": "Tax Payer Services Department",
+      "s": 34447
+    },
+    {
+      "p": 307,
+      "n": "Maryam",
+      "t": "Tax Payer Services Department",
+      "s": 34417
+    },
+    {
+      "p": 308,
+      "n": "Dodo",
+      "t": "Tax Payer Support Office",
+      "s": 34311
+    },
+    {
+      "p": 309,
+      "n": "Iman",
+      "t": "Tax Payer Support Office",
+      "s": 34065
+    },
+    {
+      "p": 310,
+      "n": "Ahmad belghuzooz",
+      "t": "Strategy and Future Department",
+      "s": 33902
+    },
+    {
+      "p": 311,
+      "n": "Ibrahim",
+      "t": "Tax Operation Department",
+      "s": 33697
+    },
+    {
+      "p": 312,
+      "n": "Zahra Aldahmani",
+      "t": "Tax Payer Services Department",
+      "s": 33440
+    },
+    {
+      "p": 313,
+      "n": "Eiman Alzahmi",
+      "t": "Tax Payer Services Department",
+      "s": 33158
+    },
+    {
+      "p": 314,
+      "n": "Faizan khalid",
+      "t": "Tax Payer Support Office",
+      "s": 32199
+    },
+    {
+      "p": 315,
+      "n": "Rahim Mahmoud",
+      "t": "Tax Payer Support Office",
+      "s": 32023
+    },
+    {
+      "p": 316,
+      "n": "Fatima",
+      "t": "Tax Payer Support Office",
+      "s": 31760
+    },
+    {
+      "p": 317,
+      "n": "Qusai",
+      "t": "Legal Affairs Department",
+      "s": 31571
+    },
+    {
+      "p": 318,
+      "n": "Nayeem Mohammed",
+      "t": "Information Technology Sector",
+      "s": 31278
+    },
+    {
+      "p": 319,
+      "n": "Hafiza Nour",
+      "t": "Tax Payer Support Office",
+      "s": 31268
+    },
+    {
+      "p": 320,
+      "n": "Abdulla .H",
+      "t": "Tax Operation Department",
+      "s": 31192
+    },
+    {
+      "p": 321,
+      "n": "Maha almheiri",
+      "t": "Tax Audit Department",
+      "s": 30280
+    },
+    {
+      "p": 322,
+      "n": "Walid Abdulrahman Khamis",
+      "t": "Tax Enforcement Department",
+      "s": 29952
+    },
+    {
+      "p": 323,
+      "n": "Ahmad Alshalabi",
+      "t": "Information Technology Sector",
+      "s": 29851
+    },
+    {
+      "p": 324,
+      "n": "Jishnudas Pazhedath",
+      "t": "Information Technology Sector",
+      "s": 29758
+    },
+    {
+      "p": 325,
+      "n": "Saif Albastaki",
+      "t": "Tax Payer Services Department",
+      "s": 29420
+    },
+    {
+      "p": 326,
+      "n": "Nesma Hammam",
+      "t": "Tax Operation Department",
+      "s": 29410
+    },
+    {
+      "p": 327,
+      "n": "Mozah Alhashmi",
+      "t": "Tax Operation Department",
+      "s": 29241
+    },
+    {
+      "p": 328,
+      "n": "Nasser Abdulrahim Mohamad",
+      "t": "Legal Affairs Department",
+      "s": 29121
+    },
+    {
+      "p": 329,
+      "n": "Salem Abdulla",
+      "t": "Tax Enforcement Department",
+      "s": 29044
+    },
+    {
+      "p": 330,
+      "n": "Yousif",
+      "t": "Tax Enforcement Department",
+      "s": 28914
+    },
+    {
+      "p": 331,
+      "n": "Moaza",
+      "t": "Tax Payer Support Office",
+      "s": 28553
+    },
+    {
+      "p": 332,
+      "n": "Shaima",
+      "t": "Tax Audit Department",
+      "s": 27687
+    },
+    {
+      "p": 333,
+      "n": "Ghaya",
+      "t": "Tax Operation Department",
+      "s": 27610
+    },
+    {
+      "p": 334,
+      "n": "Hind AlZarooni",
+      "t": "Tax Operation Department",
+      "s": 27070
+    },
+    {
+      "p": 335,
+      "n": "Mariam",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 26874
+    },
+    {
+      "p": 336,
+      "n": "Neil Anthony Malekar",
+      "t": "Tax Payer Support Office",
+      "s": 26609
+    },
+    {
+      "p": 337,
+      "n": "Rania Elbadan",
+      "t": "Tax Payer Support Office",
+      "s": 26563
+    },
+    {
+      "p": 338,
+      "n": "Karam 7ijjawi",
+      "t": "Legal Affairs Department",
+      "s": 26500
+    },
+    {
+      "p": 339,
+      "n": "Maryam",
+      "t": "Tax Payer Support Office",
+      "s": 26469
+    },
+    {
+      "p": 340,
+      "n": "Marwa",
+      "t": "Tax Payer Support Office",
+      "s": 26307
+    },
+    {
+      "p": 341,
+      "n": "Salem",
+      "t": "Information Technology Sector",
+      "s": 26007
+    },
+    {
+      "p": 342,
+      "n": "Rafia Ahli",
+      "t": "Tax Audit Department",
+      "s": 25846
+    },
+    {
+      "p": 343,
+      "n": "Salem Kokhardi",
+      "t": "Tax Enforcement Department",
+      "s": 25820
+    },
+    {
+      "p": 344,
+      "n": "AbdulNasser Ahli",
+      "t": "Information Technology Sector",
+      "s": 25500
+    },
+    {
+      "p": 345,
+      "n": "Saif Alsuwaidi",
+      "t": "Tax Payer Support Office",
+      "s": 25337
+    },
+    {
+      "p": 346,
+      "n": "Ayesha",
+      "t": "Tax Audit Department",
+      "s": 25064
+    },
+    {
+      "p": 347,
+      "n": "Soukaina Rassi",
+      "t": "Tax Payer Support Office",
+      "s": 24748
+    },
+    {
+      "p": 348,
+      "n": "Abdulla",
+      "t": "Legal Affairs Department",
+      "s": 24657
+    },
+    {
+      "p": 349,
+      "n": "Khawla",
+      "t": "Strategy and Future Department",
+      "s": 23929
+    },
+    {
+      "p": 350,
+      "n": "Muna Almarzooqi",
+      "t": "Strategy and Future Department",
+      "s": 22995
+    },
+    {
+      "p": 351,
+      "n": "Muaid saif",
+      "t": "Tax Payer Support Office",
+      "s": 22907
+    },
+    {
+      "p": 352,
+      "n": "Budoor AlKhaldi",
+      "t": "Tax Operation Department",
+      "s": 22506
+    },
+    {
+      "p": 353,
+      "n": "Abdeldjalil benmediouni",
+      "t": "Tax Payer Support Office",
+      "s": 22055
+    },
+    {
+      "p": 354,
+      "n": "Mojahed",
+      "t": "Tax Payer Support Office",
+      "s": 21378
+    },
+    {
+      "p": 355,
+      "n": "Amal amar",
+      "t": "Tax Payer Support Office",
+      "s": 20982
+    },
+    {
+      "p": 356,
+      "n": "Mohamed Zein",
+      "t": "Information Technology Sector",
+      "s": 20672
+    },
+    {
+      "p": 357,
+      "n": "Fatma",
+      "t": "Tax Policy and International Relations Department",
+      "s": 19862
+    },
+    {
+      "p": 358,
+      "n": "Abdulla Langawi",
+      "t": "Tax Payer Services Department",
+      "s": 19755
+    },
+    {
+      "p": 359,
+      "n": "Alreem Alfalasi",
+      "t": "Strategy and Future Department",
+      "s": 19434
+    },
+    {
+      "p": 360,
+      "n": "Meera Alali",
+      "t": "Tax Operation Department",
+      "s": 19388
+    },
+    {
+      "p": 361,
+      "n": "Hanan Alzadjali",
+      "t": "Tax Payer Support Office",
+      "s": 19096
+    },
+    {
+      "p": 362,
+      "n": "Dalia Qarawi",
+      "t": "Tax Policy and International Relations Department",
+      "s": 18813
+    },
+    {
+      "p": 363,
+      "n": "Raman",
+      "t": "Tax Policy and International Relations Department",
+      "s": 18688
+    },
+    {
+      "p": 364,
+      "n": "Sowmya Chinta",
+      "t": "Information Technology Sector",
+      "s": 18451
+    },
+    {
+      "p": 365,
+      "n": "Abdulla aljawder",
+      "t": "Tax Payer Support Office",
+      "s": 17591
+    },
+    {
+      "p": 366,
+      "n": "Nassir miran",
+      "t": "Tax Payer Support Office",
+      "s": 17576
+    },
+    {
+      "p": 367,
+      "n": "Nada",
+      "t": "Human Resources Department",
+      "s": 17325
+    },
+    {
+      "p": 368,
+      "n": "Shahin Shamsudheen",
+      "t": "Tax Payer Support Office",
+      "s": 17080
+    },
+    {
+      "p": 369,
+      "n": "Rashed Alghawi",
+      "t": "Tax Payer Services Department",
+      "s": 17027
+    },
+    {
+      "p": 370,
+      "n": "Laila",
+      "t": "Tax Payer Support Office",
+      "s": 16094
+    },
+    {
+      "p": 371,
+      "n": "Fatma",
+      "t": "Tax Audit Department",
+      "s": 15746
+    },
+    {
+      "p": 372,
+      "n": "Sultan alsafar",
+      "t": "Legal Affairs Department",
+      "s": 15648
+    },
+    {
+      "p": 373,
+      "n": "Ali Waleed Alsyyadi",
+      "t": "Tax Payer Support Office",
+      "s": 15594
+    },
+    {
+      "p": 374,
+      "n": "Mostafa",
+      "t": "Information Technology Sector",
+      "s": 15528
+    },
+    {
+      "p": 375,
+      "n": "Reem",
+      "t": "Tax Payer Support Office",
+      "s": 14810
+    },
+    {
+      "p": 376,
+      "n": "Mohammad Abusalem",
+      "t": "Tax Payer Services Department",
+      "s": 14733
+    },
+    {
+      "p": 377,
+      "n": "Eiman",
+      "t": "Legal Affairs Department",
+      "s": 14453
+    },
+    {
+      "p": 378,
+      "n": "KalthamAlharthi",
+      "t": "Director General Office and Internal Audit Office",
+      "s": 14312
+    },
+    {
+      "p": 379,
+      "n": "Sara",
+      "t": "Tax Policy and International Relations Department",
+      "s": 14041
+    },
+    {
+      "p": 380,
+      "n": "Divya",
+      "t": "Tax Audit Department",
+      "s": 13851
+    },
+    {
+      "p": 381,
+      "n": "Mahra Alzarooni",
+      "t": "Tax Operation Department",
+      "s": 13068
+    },
+    {
+      "p": 382,
+      "n": "Latifa",
+      "t": "Information Technology Sector",
+      "s": 11541
+    },
+    {
+      "p": 383,
+      "n": "Shaikha",
+      "t": "Tax Payer Services Department",
+      "s": 10742
+    },
+    {
+      "p": 384,
+      "n": "A.Team leader Sheko",
+      "t": "Tax Payer Support Office",
+      "s": 10331
+    },
+    {
+      "p": 385,
+      "n": "Ravi",
+      "t": "Project Management Office",
+      "s": 9823
+    },
+    {
+      "p": 386,
+      "n": "Abdulla Qayed",
+      "t": "Tax Payer Services Department",
+      "s": 9735
+    },
+    {
+      "p": 387,
+      "n": "Mohammad Murshed",
+      "t": "Tax Operation Department",
+      "s": 9670
+    },
+    {
+      "p": 388,
+      "n": "Alia Bin Shafia",
+      "t": "Tax Operation Department",
+      "s": 9394
+    },
+    {
+      "p": 389,
+      "n": "Alaa",
+      "t": "Tax Operation Department",
+      "s": 9282
+    },
+    {
+      "p": 390,
+      "n": "Mohammad AlJamal",
+      "t": "Information Technology Sector",
+      "s": 9126
+    },
+    {
+      "p": 391,
+      "n": "Arif Abdulrahman",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 8317
+    },
+    {
+      "p": 392,
+      "n": "Abdulrahman Alghoul",
+      "t": "Legal Affairs Department",
+      "s": 8273
+    },
+    {
+      "p": 393,
+      "n": "Helen Taylor",
+      "t": "Tax Investigation and Anti-Evasion Department",
+      "s": 8196
+    },
+    {
+      "p": 394,
+      "n": "Bhargava",
+      "t": "Information Technology Sector",
+      "s": 7583
+    },
+    {
+      "p": 395,
+      "n": "Rupali jain",
+      "t": "Tax Operation Department",
+      "s": 7137
+    },
+    {
+      "p": 396,
+      "n": "Zeinab Dalmar",
+      "t": "Tax Payer Support Office",
+      "s": 7017
+    },
+    {
+      "p": 397,
+      "n": "Saud Khalid",
+      "t": "Tax Audit Department",
+      "s": 6924
+    },
+    {
+      "p": 398,
+      "n": "Roudha Almheiri",
+      "t": "Tax Payer Services Department",
+      "s": 6285
+    },
+    {
+      "p": 399,
+      "n": "Esraa",
+      "t": "Tax Audit Department",
+      "s": 5998
+    },
+    {
+      "p": 400,
+      "n": "Zainab Salman",
+      "t": "Information Technology Sector",
+      "s": 5784
+    },
+    {
+      "p": 401,
+      "n": "Qutaiba Harb",
+      "t": "Legal Affairs Department",
+      "s": 5521
+    },
+    {
+      "p": 402,
+      "n": "Aayan Anwer",
+      "t": "General Affairs Department",
+      "s": 5338
+    },
+    {
+      "p": 403,
+      "n": "Mubarak Alkhajah",
+      "t": "Tax Payer Services Department",
+      "s": 4575
+    },
+    {
+      "p": 404,
+      "n": "Maryam",
+      "t": "Tax Payer Support Office",
+      "s": 4420
+    },
+    {
+      "p": 405,
+      "n": "Dana Arabi",
+      "t": "Tax Payer Support Office",
+      "s": 3530
+    },
+    {
+      "p": 406,
+      "n": "Salem Ali",
+      "t": "Tax Payer Services Department",
+      "s": 2916
+    },
+    {
+      "p": 407,
+      "n": "Maleka",
+      "t": "Tax Payer Support Office",
+      "s": 2736
+    },
+    {
+      "p": 408,
+      "n": "Salma",
+      "t": "Tax Payer Support Office",
+      "s": 1386
+    },
+    {
+      "p": 409,
+      "n": "Mira AlMahmoud",
+      "t": "Tax Policy and International Relations Department",
+      "s": 1176
+    },
+    {
+      "p": 410,
+      "n": "Haya Fathim",
+      "t": "Information Technology Sector",
+      "s": 936
+    },
+    {
+      "p": 411,
+      "n": "Manar",
+      "t": "Tax Payer Support Office",
+      "s": 706
+    },
+    {
+      "p": 412,
+      "n": "Fatema",
+      "t": "Tax Payer Support Office",
+      "s": 681
+    },
+    {
+      "p": 413,
+      "n": "Mohamed Lari",
+      "t": "Legal Affairs Department",
+      "s": 540
+    },
+    {
+      "p": 414,
+      "n": "Zubair Al Junaidi",
+      "t": "Tax Payer Support Office",
+      "s": 525
+    },
+    {
+      "p": 415,
+      "n": "Nada",
+      "t": "Tax Operation Department",
+      "s": 489
+    },
+    {
+      "p": 416,
+      "n": "Fnq",
+      "t": "Tax Audit Department",
+      "s": 0
+    },
+    {
+      "p": 417,
+      "n": "Abdulla Alkhoori",
+      "t": "Tax Payer Support Office",
+      "s": 0
+    },
+    {
+      "p": 418,
+      "n": "Suleiman Mesalam",
+      "t": "Tax Audit Department",
+      "s": 0
+    },
+    {
+      "p": 419,
+      "n": "Mohamed Ibrahim Abdul Aziz",
+      "t": "Tax Payer Services Department",
+      "s": 0
+    },
+    {
+      "p": 420,
+      "n": "Abdullah Abdul Aleem",
+      "t": "Tax Payer Support Office",
+      "s": 0
+    },
+    {
+      "p": 421,
+      "n": "",
+      "t": "Tax Audit Department",
+      "s": 0
+    },
+    {
+      "p": 422,
+      "n": "Amar Abass",
+      "t": "Tax Payer Support Office",
+      "s": 0
+    },
+    {
+      "p": 423,
+      "n": "Abdulla Albastaki",
+      "t": "Information Technology Sector",
+      "s": 0
+    },
+    {
+      "p": 424,
+      "n": "Ethar",
+      "t": "Legal Affairs Department",
+      "s": 0
+    },
+    {
+      "p": 425,
+      "n": "Fares Alhosani",
+      "t": "Tax Enforcement Department",
+      "s": 0
+    },
+    {
+      "p": 426,
+      "n": "Suliman",
+      "t": "Tax Operation Department",
+      "s": 0
+    },
+    {
+      "p": 427,
+      "n": "Kashish",
+      "t": "Tax Audit Department",
+      "s": 0
+    },
+    {
+      "p": 428,
+      "n": "Obay Abadi",
+      "t": "Information Technology Sector",
+      "s": 0
+    }
   ]
-}
+    }
