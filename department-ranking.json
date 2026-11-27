@@ -1,39 +1,39 @@
 {
-  "weekEnding": "Week 3 Results",
+  "weekEnding": "To be announced on 1st of December",
   "large": [
     {
       "rank": 1,
-      "department": "Tax Operation Department"
+      "department": ""
     },
     {
       "rank": 2,
-      "department": "Tax Enforcement Department"
+      "department": ""
     },
     {
       "rank": 3,
-      "department": "Tax Audit Department"
+      "department": ""
     },
     {
       "rank": 4,
-      "department": "Tax Payer Services Department"
+      "department": ""
     }
   ],
   "small": [
     {
       "rank": 1,
-      "department": "Human Resources Department"
+      "department": ""
     },
     {
       "rank": 2,
-      "department": "Project Management Office"
+      "department": ""
     },
     {
       "rank": 3,
-      "department": "Tax Investigation and Anti-Evasion Department"
+      "department": ""
     },
     {
       "rank": 4,
-      "department": "Director General Office and Internal Audit Office"
+      "department": ""
     }
   ]
 }
